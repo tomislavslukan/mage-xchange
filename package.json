@@ -1,0 +1,23 @@
+{
+  "name": "mage-xchange",
+  "version": "1.0.0",
+  "description": "First project as frontend developer at Inchoo",
+  "main": "index.html",
+  "scripts": {
+    "build": "npx tailwindcss-cli@latest -i ./src/input.css -o ./src/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomislavslukan/mage-xchange.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomislavslukan/mage-xchange/issues"
+  },
+  "homepage": "https://github.com/tomislavslukan/mage-xchange#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
