@@ -23349,6 +23349,38 @@ video {
   font-family: Raleway;
 }
 
+.text-14{
+  font-size: 0.833rem;
+}
+
+.text-16{
+  font-size: 1rem;
+}
+
+.text-17{
+  font-size: 1.063rem;
+}
+
+.text-24{
+  font-size: 1.5rem;
+}
+
+.text-28{
+  font-size: 1.75rem;
+}
+
+.text-33{
+  font-size: 2.074rem;
+}
+
+.text-40{
+  font-size: 2.488rem;
+}
+
+.text-48{
+  font-size: 2.986rem;
+}
+
 .text-xs{
   font-size: 0.75rem;
   line-height: 1rem;
@@ -23412,34 +23444,6 @@ video {
 .text-9xl{
   font-size: 8rem;
   line-height: 1;
-}
-
-.text-h1{
-  font-size: 2.986rem;
-}
-
-.text-h2{
-  font-size: 2.488rem;
-}
-
-.text-h3{
-  font-size: 2.074rem;
-}
-
-.text-h4{
-  font-size: 1.5rem;
-}
-
-.text-h5{
-  font-size: 1.063rem;
-}
-
-.text-p{
-  font-size: 1rem;
-}
-
-.text-small{
-  font-size: 0.833rem;
 }
 
 .font-thin{
@@ -55402,6 +55406,38 @@ a {
     font-family: Raleway;
   }
 
+  .sm\:text-14{
+    font-size: 0.833rem;
+  }
+
+  .sm\:text-16{
+    font-size: 1rem;
+  }
+
+  .sm\:text-17{
+    font-size: 1.063rem;
+  }
+
+  .sm\:text-24{
+    font-size: 1.5rem;
+  }
+
+  .sm\:text-28{
+    font-size: 1.75rem;
+  }
+
+  .sm\:text-33{
+    font-size: 2.074rem;
+  }
+
+  .sm\:text-40{
+    font-size: 2.488rem;
+  }
+
+  .sm\:text-48{
+    font-size: 2.986rem;
+  }
+
   .sm\:text-xs{
     font-size: 0.75rem;
     line-height: 1rem;
@@ -55465,34 +55501,6 @@ a {
   .sm\:text-9xl{
     font-size: 8rem;
     line-height: 1;
-  }
-
-  .sm\:text-h1{
-    font-size: 2.986rem;
-  }
-
-  .sm\:text-h2{
-    font-size: 2.488rem;
-  }
-
-  .sm\:text-h3{
-    font-size: 2.074rem;
-  }
-
-  .sm\:text-h4{
-    font-size: 1.5rem;
-  }
-
-  .sm\:text-h5{
-    font-size: 1.063rem;
-  }
-
-  .sm\:text-p{
-    font-size: 1rem;
-  }
-
-  .sm\:text-small{
-    font-size: 0.833rem;
   }
 
   .sm\:font-thin{
@@ -87076,6 +87084,38 @@ a {
     font-family: Raleway;
   }
 
+  .md\:text-14{
+    font-size: 0.833rem;
+  }
+
+  .md\:text-16{
+    font-size: 1rem;
+  }
+
+  .md\:text-17{
+    font-size: 1.063rem;
+  }
+
+  .md\:text-24{
+    font-size: 1.5rem;
+  }
+
+  .md\:text-28{
+    font-size: 1.75rem;
+  }
+
+  .md\:text-33{
+    font-size: 2.074rem;
+  }
+
+  .md\:text-40{
+    font-size: 2.488rem;
+  }
+
+  .md\:text-48{
+    font-size: 2.986rem;
+  }
+
   .md\:text-xs{
     font-size: 0.75rem;
     line-height: 1rem;
@@ -87139,34 +87179,6 @@ a {
   .md\:text-9xl{
     font-size: 8rem;
     line-height: 1;
-  }
-
-  .md\:text-h1{
-    font-size: 2.986rem;
-  }
-
-  .md\:text-h2{
-    font-size: 2.488rem;
-  }
-
-  .md\:text-h3{
-    font-size: 2.074rem;
-  }
-
-  .md\:text-h4{
-    font-size: 1.5rem;
-  }
-
-  .md\:text-h5{
-    font-size: 1.063rem;
-  }
-
-  .md\:text-p{
-    font-size: 1rem;
-  }
-
-  .md\:text-small{
-    font-size: 0.833rem;
   }
 
   .md\:font-thin{
@@ -118750,6 +118762,38 @@ a {
     font-family: Raleway;
   }
 
+  .lg\:text-14{
+    font-size: 0.833rem;
+  }
+
+  .lg\:text-16{
+    font-size: 1rem;
+  }
+
+  .lg\:text-17{
+    font-size: 1.063rem;
+  }
+
+  .lg\:text-24{
+    font-size: 1.5rem;
+  }
+
+  .lg\:text-28{
+    font-size: 1.75rem;
+  }
+
+  .lg\:text-33{
+    font-size: 2.074rem;
+  }
+
+  .lg\:text-40{
+    font-size: 2.488rem;
+  }
+
+  .lg\:text-48{
+    font-size: 2.986rem;
+  }
+
   .lg\:text-xs{
     font-size: 0.75rem;
     line-height: 1rem;
@@ -118813,34 +118857,6 @@ a {
   .lg\:text-9xl{
     font-size: 8rem;
     line-height: 1;
-  }
-
-  .lg\:text-h1{
-    font-size: 2.986rem;
-  }
-
-  .lg\:text-h2{
-    font-size: 2.488rem;
-  }
-
-  .lg\:text-h3{
-    font-size: 2.074rem;
-  }
-
-  .lg\:text-h4{
-    font-size: 1.5rem;
-  }
-
-  .lg\:text-h5{
-    font-size: 1.063rem;
-  }
-
-  .lg\:text-p{
-    font-size: 1rem;
-  }
-
-  .lg\:text-small{
-    font-size: 0.833rem;
   }
 
   .lg\:font-thin{
@@ -150424,6 +150440,38 @@ a {
     font-family: Raleway;
   }
 
+  .xl\:text-14{
+    font-size: 0.833rem;
+  }
+
+  .xl\:text-16{
+    font-size: 1rem;
+  }
+
+  .xl\:text-17{
+    font-size: 1.063rem;
+  }
+
+  .xl\:text-24{
+    font-size: 1.5rem;
+  }
+
+  .xl\:text-28{
+    font-size: 1.75rem;
+  }
+
+  .xl\:text-33{
+    font-size: 2.074rem;
+  }
+
+  .xl\:text-40{
+    font-size: 2.488rem;
+  }
+
+  .xl\:text-48{
+    font-size: 2.986rem;
+  }
+
   .xl\:text-xs{
     font-size: 0.75rem;
     line-height: 1rem;
@@ -150487,34 +150535,6 @@ a {
   .xl\:text-9xl{
     font-size: 8rem;
     line-height: 1;
-  }
-
-  .xl\:text-h1{
-    font-size: 2.986rem;
-  }
-
-  .xl\:text-h2{
-    font-size: 2.488rem;
-  }
-
-  .xl\:text-h3{
-    font-size: 2.074rem;
-  }
-
-  .xl\:text-h4{
-    font-size: 1.5rem;
-  }
-
-  .xl\:text-h5{
-    font-size: 1.063rem;
-  }
-
-  .xl\:text-p{
-    font-size: 1rem;
-  }
-
-  .xl\:text-small{
-    font-size: 0.833rem;
   }
 
   .xl\:font-thin{
@@ -182098,6 +182118,38 @@ a {
     font-family: Raleway;
   }
 
+  .\32xl\:text-14{
+    font-size: 0.833rem;
+  }
+
+  .\32xl\:text-16{
+    font-size: 1rem;
+  }
+
+  .\32xl\:text-17{
+    font-size: 1.063rem;
+  }
+
+  .\32xl\:text-24{
+    font-size: 1.5rem;
+  }
+
+  .\32xl\:text-28{
+    font-size: 1.75rem;
+  }
+
+  .\32xl\:text-33{
+    font-size: 2.074rem;
+  }
+
+  .\32xl\:text-40{
+    font-size: 2.488rem;
+  }
+
+  .\32xl\:text-48{
+    font-size: 2.986rem;
+  }
+
   .\32xl\:text-xs{
     font-size: 0.75rem;
     line-height: 1rem;
@@ -182161,34 +182213,6 @@ a {
   .\32xl\:text-9xl{
     font-size: 8rem;
     line-height: 1;
-  }
-
-  .\32xl\:text-h1{
-    font-size: 2.986rem;
-  }
-
-  .\32xl\:text-h2{
-    font-size: 2.488rem;
-  }
-
-  .\32xl\:text-h3{
-    font-size: 2.074rem;
-  }
-
-  .\32xl\:text-h4{
-    font-size: 1.5rem;
-  }
-
-  .\32xl\:text-h5{
-    font-size: 1.063rem;
-  }
-
-  .\32xl\:text-p{
-    font-size: 1rem;
-  }
-
-  .\32xl\:text-small{
-    font-size: 0.833rem;
   }
 
   .\32xl\:font-thin{
