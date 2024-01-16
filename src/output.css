@@ -884,10 +884,10 @@ video {
 }
 
 .inset-36{
-  top: 9rem;
-  right: 9rem;
-  bottom: 9rem;
-  left: 9rem;
+  top: 2.25rem;
+  right: 2.25rem;
+  bottom: 2.25rem;
+  left: 2.25rem;
 }
 
 .inset-40{
@@ -1150,10 +1150,10 @@ video {
 }
 
 .-inset-36{
-  top: -9rem;
-  right: -9rem;
-  bottom: -9rem;
-  left: -9rem;
+  top: -2.25rem;
+  right: -2.25rem;
+  bottom: -2.25rem;
+  left: -2.25rem;
 }
 
 .-inset-40{
@@ -1465,8 +1465,8 @@ video {
 }
 
 .inset-x-36{
-  left: 9rem;
-  right: 9rem;
+  left: 2.25rem;
+  right: 2.25rem;
 }
 
 .inset-x-40{
@@ -1655,8 +1655,8 @@ video {
 }
 
 .-inset-x-36{
-  left: -9rem;
-  right: -9rem;
+  left: -2.25rem;
+  right: -2.25rem;
 }
 
 .-inset-x-40{
@@ -1910,8 +1910,8 @@ video {
 }
 
 .inset-y-36{
-  top: 9rem;
-  bottom: 9rem;
+  top: 2.25rem;
+  bottom: 2.25rem;
 }
 
 .inset-y-40{
@@ -2100,8 +2100,8 @@ video {
 }
 
 .-inset-y-36{
-  top: -9rem;
-  bottom: -9rem;
+  top: -2.25rem;
+  bottom: -2.25rem;
 }
 
 .-inset-y-40{
@@ -2334,7 +2334,7 @@ video {
 }
 
 .top-36{
-  top: 9rem;
+  top: 2.25rem;
 }
 
 .top-40{
@@ -2486,7 +2486,7 @@ video {
 }
 
 .-top-36{
-  top: -9rem;
+  top: -2.25rem;
 }
 
 .-top-40{
@@ -2690,7 +2690,7 @@ video {
 }
 
 .right-36{
-  right: 9rem;
+  right: 2.25rem;
 }
 
 .right-40{
@@ -2842,7 +2842,7 @@ video {
 }
 
 .-right-36{
-  right: -9rem;
+  right: -2.25rem;
 }
 
 .-right-40{
@@ -3046,7 +3046,7 @@ video {
 }
 
 .bottom-36{
-  bottom: 9rem;
+  bottom: 2.25rem;
 }
 
 .bottom-40{
@@ -3198,7 +3198,7 @@ video {
 }
 
 .-bottom-36{
-  bottom: -9rem;
+  bottom: -2.25rem;
 }
 
 .-bottom-40{
@@ -3402,7 +3402,7 @@ video {
 }
 
 .left-36{
-  left: 9rem;
+  left: 2.25rem;
 }
 
 .left-40{
@@ -3554,7 +3554,7 @@ video {
 }
 
 .-left-36{
-  left: -9rem;
+  left: -2.25rem;
 }
 
 .-left-40{
@@ -4202,7 +4202,7 @@ video {
 }
 
 .m-36{
-  margin: 9rem;
+  margin: 2.25rem;
 }
 
 .m-40{
@@ -4354,7 +4354,7 @@ video {
 }
 
 .-m-36{
-  margin: -9rem;
+  margin: -2.25rem;
 }
 
 .-m-40{
@@ -4523,8 +4523,8 @@ video {
 }
 
 .mx-36{
-  margin-left: 9rem;
-  margin-right: 9rem;
+  margin-left: 2.25rem;
+  margin-right: 2.25rem;
 }
 
 .mx-40{
@@ -4713,8 +4713,8 @@ video {
 }
 
 .-mx-36{
-  margin-left: -9rem;
-  margin-right: -9rem;
+  margin-left: -2.25rem;
+  margin-right: -2.25rem;
 }
 
 .-mx-40{
@@ -4898,8 +4898,8 @@ video {
 }
 
 .my-36{
-  margin-top: 9rem;
-  margin-bottom: 9rem;
+  margin-top: 2.25rem;
+  margin-bottom: 2.25rem;
 }
 
 .my-40{
@@ -5088,8 +5088,8 @@ video {
 }
 
 .-my-36{
-  margin-top: -9rem;
-  margin-bottom: -9rem;
+  margin-top: -2.25rem;
+  margin-bottom: -2.25rem;
 }
 
 .-my-40{
@@ -5252,7 +5252,7 @@ video {
 }
 
 .mt-36{
-  margin-top: 9rem;
+  margin-top: 2.25rem;
 }
 
 .mt-40{
@@ -5404,7 +5404,7 @@ video {
 }
 
 .-mt-36{
-  margin-top: -9rem;
+  margin-top: -2.25rem;
 }
 
 .-mt-40{
@@ -5552,7 +5552,7 @@ video {
 }
 
 .mr-36{
-  margin-right: 9rem;
+  margin-right: 2.25rem;
 }
 
 .mr-40{
@@ -5704,7 +5704,7 @@ video {
 }
 
 .-mr-36{
-  margin-right: -9rem;
+  margin-right: -2.25rem;
 }
 
 .-mr-40{
@@ -5852,7 +5852,7 @@ video {
 }
 
 .mb-36{
-  margin-bottom: 9rem;
+  margin-bottom: 2.25rem;
 }
 
 .mb-40{
@@ -6004,7 +6004,7 @@ video {
 }
 
 .-mb-36{
-  margin-bottom: -9rem;
+  margin-bottom: -2.25rem;
 }
 
 .-mb-40{
@@ -6152,7 +6152,7 @@ video {
 }
 
 .ml-36{
-  margin-left: 9rem;
+  margin-left: 2.25rem;
 }
 
 .ml-40{
@@ -6304,7 +6304,7 @@ video {
 }
 
 .-ml-36{
-  margin-left: -9rem;
+  margin-left: -2.25rem;
 }
 
 .-ml-40{
@@ -6544,7 +6544,7 @@ video {
 }
 
 .h-36{
-  height: 9rem;
+  height: 2.25rem;
 }
 
 .h-40{
@@ -6764,7 +6764,7 @@ video {
 }
 
 .max-h-36{
-  max-height: 9rem;
+  max-height: 2.25rem;
 }
 
 .max-h-40{
@@ -6932,7 +6932,7 @@ video {
 }
 
 .w-36{
-  width: 9rem;
+  width: 2.25rem;
 }
 
 .w-40{
@@ -7424,7 +7424,7 @@ video {
 }
 
 .translate-x-36{
-  --tw-translate-x: 9rem;
+  --tw-translate-x: 2.25rem;
 }
 
 .translate-x-40{
@@ -7572,7 +7572,7 @@ video {
 }
 
 .-translate-x-36{
-  --tw-translate-x: -9rem;
+  --tw-translate-x: -2.25rem;
 }
 
 .-translate-x-40{
@@ -7776,7 +7776,7 @@ video {
 }
 
 .translate-y-36{
-  --tw-translate-y: 9rem;
+  --tw-translate-y: 2.25rem;
 }
 
 .translate-y-40{
@@ -7924,7 +7924,7 @@ video {
 }
 
 .-translate-y-36{
-  --tw-translate-y: -9rem;
+  --tw-translate-y: -2.25rem;
 }
 
 .-translate-y-40{
@@ -8128,7 +8128,7 @@ video {
 }
 
 .hover\:translate-x-36:hover{
-  --tw-translate-x: 9rem;
+  --tw-translate-x: 2.25rem;
 }
 
 .hover\:translate-x-40:hover{
@@ -8276,7 +8276,7 @@ video {
 }
 
 .hover\:-translate-x-36:hover{
-  --tw-translate-x: -9rem;
+  --tw-translate-x: -2.25rem;
 }
 
 .hover\:-translate-x-40:hover{
@@ -8480,7 +8480,7 @@ video {
 }
 
 .hover\:translate-y-36:hover{
-  --tw-translate-y: 9rem;
+  --tw-translate-y: 2.25rem;
 }
 
 .hover\:translate-y-40:hover{
@@ -8628,7 +8628,7 @@ video {
 }
 
 .hover\:-translate-y-36:hover{
-  --tw-translate-y: -9rem;
+  --tw-translate-y: -2.25rem;
 }
 
 .hover\:-translate-y-40:hover{
@@ -8832,7 +8832,7 @@ video {
 }
 
 .focus\:translate-x-36:focus{
-  --tw-translate-x: 9rem;
+  --tw-translate-x: 2.25rem;
 }
 
 .focus\:translate-x-40:focus{
@@ -8980,7 +8980,7 @@ video {
 }
 
 .focus\:-translate-x-36:focus{
-  --tw-translate-x: -9rem;
+  --tw-translate-x: -2.25rem;
 }
 
 .focus\:-translate-x-40:focus{
@@ -9184,7 +9184,7 @@ video {
 }
 
 .focus\:translate-y-36:focus{
-  --tw-translate-y: 9rem;
+  --tw-translate-y: 2.25rem;
 }
 
 .focus\:translate-y-40:focus{
@@ -9332,7 +9332,7 @@ video {
 }
 
 .focus\:-translate-y-36:focus{
-  --tw-translate-y: -9rem;
+  --tw-translate-y: -2.25rem;
 }
 
 .focus\:-translate-y-40:focus{
@@ -10827,7 +10827,7 @@ video {
 }
 
 .gap-36{
-  gap: 9rem;
+  gap: 2.25rem;
 }
 
 .gap-40{
@@ -10996,8 +10996,8 @@ video {
 }
 
 .gap-x-36{
-  -moz-column-gap: 9rem;
-       column-gap: 9rem;
+  -moz-column-gap: 2.25rem;
+       column-gap: 2.25rem;
 }
 
 .gap-x-40{
@@ -11160,7 +11160,7 @@ video {
 }
 
 .gap-y-36{
-  row-gap: 9rem;
+  row-gap: 2.25rem;
 }
 
 .gap-y-40{
@@ -11351,8 +11351,8 @@ video {
 
 .space-x-36 > :not([hidden]) ~ :not([hidden]){
   --tw-space-x-reverse: 0;
-  margin-right: calc(9rem * var(--tw-space-x-reverse));
-  margin-left: calc(9rem * calc(1 - var(--tw-space-x-reverse)));
+  margin-right: calc(2.25rem * var(--tw-space-x-reverse));
+  margin-left: calc(2.25rem * calc(1 - var(--tw-space-x-reverse)));
 }
 
 .space-x-40 > :not([hidden]) ~ :not([hidden]){
@@ -11573,8 +11573,8 @@ video {
 
 .-space-x-36 > :not([hidden]) ~ :not([hidden]){
   --tw-space-x-reverse: 0;
-  margin-right: calc(-9rem * var(--tw-space-x-reverse));
-  margin-left: calc(-9rem * calc(1 - var(--tw-space-x-reverse)));
+  margin-right: calc(-2.25rem * var(--tw-space-x-reverse));
+  margin-left: calc(-2.25rem * calc(1 - var(--tw-space-x-reverse)));
 }
 
 .-space-x-40 > :not([hidden]) ~ :not([hidden]){
@@ -11795,8 +11795,8 @@ video {
 
 .space-y-36 > :not([hidden]) ~ :not([hidden]){
   --tw-space-y-reverse: 0;
-  margin-top: calc(9rem * calc(1 - var(--tw-space-y-reverse)));
-  margin-bottom: calc(9rem * var(--tw-space-y-reverse));
+  margin-top: calc(2.25rem * calc(1 - var(--tw-space-y-reverse)));
+  margin-bottom: calc(2.25rem * var(--tw-space-y-reverse));
 }
 
 .space-y-40 > :not([hidden]) ~ :not([hidden]){
@@ -12017,8 +12017,8 @@ video {
 
 .-space-y-36 > :not([hidden]) ~ :not([hidden]){
   --tw-space-y-reverse: 0;
-  margin-top: calc(-9rem * calc(1 - var(--tw-space-y-reverse)));
-  margin-bottom: calc(-9rem * var(--tw-space-y-reverse));
+  margin-top: calc(-2.25rem * calc(1 - var(--tw-space-y-reverse)));
+  margin-bottom: calc(-2.25rem * var(--tw-space-y-reverse));
 }
 
 .-space-y-40 > :not([hidden]) ~ :not([hidden]){
@@ -22260,7 +22260,7 @@ video {
 }
 
 .p-36{
-  padding: 9rem;
+  padding: 2.25rem;
 }
 
 .p-40{
@@ -22429,8 +22429,8 @@ video {
 }
 
 .px-36{
-  padding-left: 9rem;
-  padding-right: 9rem;
+  padding-left: 2.25rem;
+  padding-right: 2.25rem;
 }
 
 .px-40{
@@ -22614,8 +22614,8 @@ video {
 }
 
 .py-36{
-  padding-top: 9rem;
-  padding-bottom: 9rem;
+  padding-top: 2.25rem;
+  padding-bottom: 2.25rem;
 }
 
 .py-40{
@@ -22778,7 +22778,7 @@ video {
 }
 
 .pt-36{
-  padding-top: 9rem;
+  padding-top: 2.25rem;
 }
 
 .pt-40{
@@ -22926,7 +22926,7 @@ video {
 }
 
 .pr-36{
-  padding-right: 9rem;
+  padding-right: 2.25rem;
 }
 
 .pr-40{
@@ -23074,7 +23074,7 @@ video {
 }
 
 .pb-36{
-  padding-bottom: 9rem;
+  padding-bottom: 2.25rem;
 }
 
 .pb-40{
@@ -23222,7 +23222,7 @@ video {
 }
 
 .pl-36{
-  padding-left: 9rem;
+  padding-left: 2.25rem;
 }
 
 .pl-40{
@@ -32972,10 +32972,10 @@ a {
   }
 
   .sm\:inset-36{
-    top: 9rem;
-    right: 9rem;
-    bottom: 9rem;
-    left: 9rem;
+    top: 2.25rem;
+    right: 2.25rem;
+    bottom: 2.25rem;
+    left: 2.25rem;
   }
 
   .sm\:inset-40{
@@ -33238,10 +33238,10 @@ a {
   }
 
   .sm\:-inset-36{
-    top: -9rem;
-    right: -9rem;
-    bottom: -9rem;
-    left: -9rem;
+    top: -2.25rem;
+    right: -2.25rem;
+    bottom: -2.25rem;
+    left: -2.25rem;
   }
 
   .sm\:-inset-40{
@@ -33553,8 +33553,8 @@ a {
   }
 
   .sm\:inset-x-36{
-    left: 9rem;
-    right: 9rem;
+    left: 2.25rem;
+    right: 2.25rem;
   }
 
   .sm\:inset-x-40{
@@ -33743,8 +33743,8 @@ a {
   }
 
   .sm\:-inset-x-36{
-    left: -9rem;
-    right: -9rem;
+    left: -2.25rem;
+    right: -2.25rem;
   }
 
   .sm\:-inset-x-40{
@@ -33998,8 +33998,8 @@ a {
   }
 
   .sm\:inset-y-36{
-    top: 9rem;
-    bottom: 9rem;
+    top: 2.25rem;
+    bottom: 2.25rem;
   }
 
   .sm\:inset-y-40{
@@ -34188,8 +34188,8 @@ a {
   }
 
   .sm\:-inset-y-36{
-    top: -9rem;
-    bottom: -9rem;
+    top: -2.25rem;
+    bottom: -2.25rem;
   }
 
   .sm\:-inset-y-40{
@@ -34422,7 +34422,7 @@ a {
   }
 
   .sm\:top-36{
-    top: 9rem;
+    top: 2.25rem;
   }
 
   .sm\:top-40{
@@ -34574,7 +34574,7 @@ a {
   }
 
   .sm\:-top-36{
-    top: -9rem;
+    top: -2.25rem;
   }
 
   .sm\:-top-40{
@@ -34778,7 +34778,7 @@ a {
   }
 
   .sm\:right-36{
-    right: 9rem;
+    right: 2.25rem;
   }
 
   .sm\:right-40{
@@ -34930,7 +34930,7 @@ a {
   }
 
   .sm\:-right-36{
-    right: -9rem;
+    right: -2.25rem;
   }
 
   .sm\:-right-40{
@@ -35134,7 +35134,7 @@ a {
   }
 
   .sm\:bottom-36{
-    bottom: 9rem;
+    bottom: 2.25rem;
   }
 
   .sm\:bottom-40{
@@ -35286,7 +35286,7 @@ a {
   }
 
   .sm\:-bottom-36{
-    bottom: -9rem;
+    bottom: -2.25rem;
   }
 
   .sm\:-bottom-40{
@@ -35490,7 +35490,7 @@ a {
   }
 
   .sm\:left-36{
-    left: 9rem;
+    left: 2.25rem;
   }
 
   .sm\:left-40{
@@ -35642,7 +35642,7 @@ a {
   }
 
   .sm\:-left-36{
-    left: -9rem;
+    left: -2.25rem;
   }
 
   .sm\:-left-40{
@@ -36290,7 +36290,7 @@ a {
   }
 
   .sm\:m-36{
-    margin: 9rem;
+    margin: 2.25rem;
   }
 
   .sm\:m-40{
@@ -36442,7 +36442,7 @@ a {
   }
 
   .sm\:-m-36{
-    margin: -9rem;
+    margin: -2.25rem;
   }
 
   .sm\:-m-40{
@@ -36611,8 +36611,8 @@ a {
   }
 
   .sm\:mx-36{
-    margin-left: 9rem;
-    margin-right: 9rem;
+    margin-left: 2.25rem;
+    margin-right: 2.25rem;
   }
 
   .sm\:mx-40{
@@ -36801,8 +36801,8 @@ a {
   }
 
   .sm\:-mx-36{
-    margin-left: -9rem;
-    margin-right: -9rem;
+    margin-left: -2.25rem;
+    margin-right: -2.25rem;
   }
 
   .sm\:-mx-40{
@@ -36986,8 +36986,8 @@ a {
   }
 
   .sm\:my-36{
-    margin-top: 9rem;
-    margin-bottom: 9rem;
+    margin-top: 2.25rem;
+    margin-bottom: 2.25rem;
   }
 
   .sm\:my-40{
@@ -37176,8 +37176,8 @@ a {
   }
 
   .sm\:-my-36{
-    margin-top: -9rem;
-    margin-bottom: -9rem;
+    margin-top: -2.25rem;
+    margin-bottom: -2.25rem;
   }
 
   .sm\:-my-40{
@@ -37340,7 +37340,7 @@ a {
   }
 
   .sm\:mt-36{
-    margin-top: 9rem;
+    margin-top: 2.25rem;
   }
 
   .sm\:mt-40{
@@ -37492,7 +37492,7 @@ a {
   }
 
   .sm\:-mt-36{
-    margin-top: -9rem;
+    margin-top: -2.25rem;
   }
 
   .sm\:-mt-40{
@@ -37640,7 +37640,7 @@ a {
   }
 
   .sm\:mr-36{
-    margin-right: 9rem;
+    margin-right: 2.25rem;
   }
 
   .sm\:mr-40{
@@ -37792,7 +37792,7 @@ a {
   }
 
   .sm\:-mr-36{
-    margin-right: -9rem;
+    margin-right: -2.25rem;
   }
 
   .sm\:-mr-40{
@@ -37940,7 +37940,7 @@ a {
   }
 
   .sm\:mb-36{
-    margin-bottom: 9rem;
+    margin-bottom: 2.25rem;
   }
 
   .sm\:mb-40{
@@ -38092,7 +38092,7 @@ a {
   }
 
   .sm\:-mb-36{
-    margin-bottom: -9rem;
+    margin-bottom: -2.25rem;
   }
 
   .sm\:-mb-40{
@@ -38240,7 +38240,7 @@ a {
   }
 
   .sm\:ml-36{
-    margin-left: 9rem;
+    margin-left: 2.25rem;
   }
 
   .sm\:ml-40{
@@ -38392,7 +38392,7 @@ a {
   }
 
   .sm\:-ml-36{
-    margin-left: -9rem;
+    margin-left: -2.25rem;
   }
 
   .sm\:-ml-40{
@@ -38632,7 +38632,7 @@ a {
   }
 
   .sm\:h-36{
-    height: 9rem;
+    height: 2.25rem;
   }
 
   .sm\:h-40{
@@ -38852,7 +38852,7 @@ a {
   }
 
   .sm\:max-h-36{
-    max-height: 9rem;
+    max-height: 2.25rem;
   }
 
   .sm\:max-h-40{
@@ -39020,7 +39020,7 @@ a {
   }
 
   .sm\:w-36{
-    width: 9rem;
+    width: 2.25rem;
   }
 
   .sm\:w-40{
@@ -39512,7 +39512,7 @@ a {
   }
 
   .sm\:translate-x-36{
-    --tw-translate-x: 9rem;
+    --tw-translate-x: 2.25rem;
   }
 
   .sm\:translate-x-40{
@@ -39660,7 +39660,7 @@ a {
   }
 
   .sm\:-translate-x-36{
-    --tw-translate-x: -9rem;
+    --tw-translate-x: -2.25rem;
   }
 
   .sm\:-translate-x-40{
@@ -39864,7 +39864,7 @@ a {
   }
 
   .sm\:translate-y-36{
-    --tw-translate-y: 9rem;
+    --tw-translate-y: 2.25rem;
   }
 
   .sm\:translate-y-40{
@@ -40012,7 +40012,7 @@ a {
   }
 
   .sm\:-translate-y-36{
-    --tw-translate-y: -9rem;
+    --tw-translate-y: -2.25rem;
   }
 
   .sm\:-translate-y-40{
@@ -40216,7 +40216,7 @@ a {
   }
 
   .sm\:hover\:translate-x-36:hover{
-    --tw-translate-x: 9rem;
+    --tw-translate-x: 2.25rem;
   }
 
   .sm\:hover\:translate-x-40:hover{
@@ -40364,7 +40364,7 @@ a {
   }
 
   .sm\:hover\:-translate-x-36:hover{
-    --tw-translate-x: -9rem;
+    --tw-translate-x: -2.25rem;
   }
 
   .sm\:hover\:-translate-x-40:hover{
@@ -40568,7 +40568,7 @@ a {
   }
 
   .sm\:hover\:translate-y-36:hover{
-    --tw-translate-y: 9rem;
+    --tw-translate-y: 2.25rem;
   }
 
   .sm\:hover\:translate-y-40:hover{
@@ -40716,7 +40716,7 @@ a {
   }
 
   .sm\:hover\:-translate-y-36:hover{
-    --tw-translate-y: -9rem;
+    --tw-translate-y: -2.25rem;
   }
 
   .sm\:hover\:-translate-y-40:hover{
@@ -40920,7 +40920,7 @@ a {
   }
 
   .sm\:focus\:translate-x-36:focus{
-    --tw-translate-x: 9rem;
+    --tw-translate-x: 2.25rem;
   }
 
   .sm\:focus\:translate-x-40:focus{
@@ -41068,7 +41068,7 @@ a {
   }
 
   .sm\:focus\:-translate-x-36:focus{
-    --tw-translate-x: -9rem;
+    --tw-translate-x: -2.25rem;
   }
 
   .sm\:focus\:-translate-x-40:focus{
@@ -41272,7 +41272,7 @@ a {
   }
 
   .sm\:focus\:translate-y-36:focus{
-    --tw-translate-y: 9rem;
+    --tw-translate-y: 2.25rem;
   }
 
   .sm\:focus\:translate-y-40:focus{
@@ -41420,7 +41420,7 @@ a {
   }
 
   .sm\:focus\:-translate-y-36:focus{
-    --tw-translate-y: -9rem;
+    --tw-translate-y: -2.25rem;
   }
 
   .sm\:focus\:-translate-y-40:focus{
@@ -42884,7 +42884,7 @@ a {
   }
 
   .sm\:gap-36{
-    gap: 9rem;
+    gap: 2.25rem;
   }
 
   .sm\:gap-40{
@@ -43053,8 +43053,8 @@ a {
   }
 
   .sm\:gap-x-36{
-    -moz-column-gap: 9rem;
-         column-gap: 9rem;
+    -moz-column-gap: 2.25rem;
+         column-gap: 2.25rem;
   }
 
   .sm\:gap-x-40{
@@ -43217,7 +43217,7 @@ a {
   }
 
   .sm\:gap-y-36{
-    row-gap: 9rem;
+    row-gap: 2.25rem;
   }
 
   .sm\:gap-y-40{
@@ -43408,8 +43408,8 @@ a {
 
   .sm\:space-x-36 > :not([hidden]) ~ :not([hidden]){
     --tw-space-x-reverse: 0;
-    margin-right: calc(9rem * var(--tw-space-x-reverse));
-    margin-left: calc(9rem * calc(1 - var(--tw-space-x-reverse)));
+    margin-right: calc(2.25rem * var(--tw-space-x-reverse));
+    margin-left: calc(2.25rem * calc(1 - var(--tw-space-x-reverse)));
   }
 
   .sm\:space-x-40 > :not([hidden]) ~ :not([hidden]){
@@ -43630,8 +43630,8 @@ a {
 
   .sm\:-space-x-36 > :not([hidden]) ~ :not([hidden]){
     --tw-space-x-reverse: 0;
-    margin-right: calc(-9rem * var(--tw-space-x-reverse));
-    margin-left: calc(-9rem * calc(1 - var(--tw-space-x-reverse)));
+    margin-right: calc(-2.25rem * var(--tw-space-x-reverse));
+    margin-left: calc(-2.25rem * calc(1 - var(--tw-space-x-reverse)));
   }
 
   .sm\:-space-x-40 > :not([hidden]) ~ :not([hidden]){
@@ -43852,8 +43852,8 @@ a {
 
   .sm\:space-y-36 > :not([hidden]) ~ :not([hidden]){
     --tw-space-y-reverse: 0;
-    margin-top: calc(9rem * calc(1 - var(--tw-space-y-reverse)));
-    margin-bottom: calc(9rem * var(--tw-space-y-reverse));
+    margin-top: calc(2.25rem * calc(1 - var(--tw-space-y-reverse)));
+    margin-bottom: calc(2.25rem * var(--tw-space-y-reverse));
   }
 
   .sm\:space-y-40 > :not([hidden]) ~ :not([hidden]){
@@ -44074,8 +44074,8 @@ a {
 
   .sm\:-space-y-36 > :not([hidden]) ~ :not([hidden]){
     --tw-space-y-reverse: 0;
-    margin-top: calc(-9rem * calc(1 - var(--tw-space-y-reverse)));
-    margin-bottom: calc(-9rem * var(--tw-space-y-reverse));
+    margin-top: calc(-2.25rem * calc(1 - var(--tw-space-y-reverse)));
+    margin-bottom: calc(-2.25rem * var(--tw-space-y-reverse));
   }
 
   .sm\:-space-y-40 > :not([hidden]) ~ :not([hidden]){
@@ -54317,7 +54317,7 @@ a {
   }
 
   .sm\:p-36{
-    padding: 9rem;
+    padding: 2.25rem;
   }
 
   .sm\:p-40{
@@ -54486,8 +54486,8 @@ a {
   }
 
   .sm\:px-36{
-    padding-left: 9rem;
-    padding-right: 9rem;
+    padding-left: 2.25rem;
+    padding-right: 2.25rem;
   }
 
   .sm\:px-40{
@@ -54671,8 +54671,8 @@ a {
   }
 
   .sm\:py-36{
-    padding-top: 9rem;
-    padding-bottom: 9rem;
+    padding-top: 2.25rem;
+    padding-bottom: 2.25rem;
   }
 
   .sm\:py-40{
@@ -54835,7 +54835,7 @@ a {
   }
 
   .sm\:pt-36{
-    padding-top: 9rem;
+    padding-top: 2.25rem;
   }
 
   .sm\:pt-40{
@@ -54983,7 +54983,7 @@ a {
   }
 
   .sm\:pr-36{
-    padding-right: 9rem;
+    padding-right: 2.25rem;
   }
 
   .sm\:pr-40{
@@ -55131,7 +55131,7 @@ a {
   }
 
   .sm\:pb-36{
-    padding-bottom: 9rem;
+    padding-bottom: 2.25rem;
   }
 
   .sm\:pb-40{
@@ -55279,7 +55279,7 @@ a {
   }
 
   .sm\:pl-36{
-    padding-left: 9rem;
+    padding-left: 2.25rem;
   }
 
   .sm\:pl-40{
@@ -64650,10 +64650,10 @@ a {
   }
 
   .md\:inset-36{
-    top: 9rem;
-    right: 9rem;
-    bottom: 9rem;
-    left: 9rem;
+    top: 2.25rem;
+    right: 2.25rem;
+    bottom: 2.25rem;
+    left: 2.25rem;
   }
 
   .md\:inset-40{
@@ -64916,10 +64916,10 @@ a {
   }
 
   .md\:-inset-36{
-    top: -9rem;
-    right: -9rem;
-    bottom: -9rem;
-    left: -9rem;
+    top: -2.25rem;
+    right: -2.25rem;
+    bottom: -2.25rem;
+    left: -2.25rem;
   }
 
   .md\:-inset-40{
@@ -65231,8 +65231,8 @@ a {
   }
 
   .md\:inset-x-36{
-    left: 9rem;
-    right: 9rem;
+    left: 2.25rem;
+    right: 2.25rem;
   }
 
   .md\:inset-x-40{
@@ -65421,8 +65421,8 @@ a {
   }
 
   .md\:-inset-x-36{
-    left: -9rem;
-    right: -9rem;
+    left: -2.25rem;
+    right: -2.25rem;
   }
 
   .md\:-inset-x-40{
@@ -65676,8 +65676,8 @@ a {
   }
 
   .md\:inset-y-36{
-    top: 9rem;
-    bottom: 9rem;
+    top: 2.25rem;
+    bottom: 2.25rem;
   }
 
   .md\:inset-y-40{
@@ -65866,8 +65866,8 @@ a {
   }
 
   .md\:-inset-y-36{
-    top: -9rem;
-    bottom: -9rem;
+    top: -2.25rem;
+    bottom: -2.25rem;
   }
 
   .md\:-inset-y-40{
@@ -66100,7 +66100,7 @@ a {
   }
 
   .md\:top-36{
-    top: 9rem;
+    top: 2.25rem;
   }
 
   .md\:top-40{
@@ -66252,7 +66252,7 @@ a {
   }
 
   .md\:-top-36{
-    top: -9rem;
+    top: -2.25rem;
   }
 
   .md\:-top-40{
@@ -66456,7 +66456,7 @@ a {
   }
 
   .md\:right-36{
-    right: 9rem;
+    right: 2.25rem;
   }
 
   .md\:right-40{
@@ -66608,7 +66608,7 @@ a {
   }
 
   .md\:-right-36{
-    right: -9rem;
+    right: -2.25rem;
   }
 
   .md\:-right-40{
@@ -66812,7 +66812,7 @@ a {
   }
 
   .md\:bottom-36{
-    bottom: 9rem;
+    bottom: 2.25rem;
   }
 
   .md\:bottom-40{
@@ -66964,7 +66964,7 @@ a {
   }
 
   .md\:-bottom-36{
-    bottom: -9rem;
+    bottom: -2.25rem;
   }
 
   .md\:-bottom-40{
@@ -67168,7 +67168,7 @@ a {
   }
 
   .md\:left-36{
-    left: 9rem;
+    left: 2.25rem;
   }
 
   .md\:left-40{
@@ -67320,7 +67320,7 @@ a {
   }
 
   .md\:-left-36{
-    left: -9rem;
+    left: -2.25rem;
   }
 
   .md\:-left-40{
@@ -67968,7 +67968,7 @@ a {
   }
 
   .md\:m-36{
-    margin: 9rem;
+    margin: 2.25rem;
   }
 
   .md\:m-40{
@@ -68120,7 +68120,7 @@ a {
   }
 
   .md\:-m-36{
-    margin: -9rem;
+    margin: -2.25rem;
   }
 
   .md\:-m-40{
@@ -68289,8 +68289,8 @@ a {
   }
 
   .md\:mx-36{
-    margin-left: 9rem;
-    margin-right: 9rem;
+    margin-left: 2.25rem;
+    margin-right: 2.25rem;
   }
 
   .md\:mx-40{
@@ -68479,8 +68479,8 @@ a {
   }
 
   .md\:-mx-36{
-    margin-left: -9rem;
-    margin-right: -9rem;
+    margin-left: -2.25rem;
+    margin-right: -2.25rem;
   }
 
   .md\:-mx-40{
@@ -68664,8 +68664,8 @@ a {
   }
 
   .md\:my-36{
-    margin-top: 9rem;
-    margin-bottom: 9rem;
+    margin-top: 2.25rem;
+    margin-bottom: 2.25rem;
   }
 
   .md\:my-40{
@@ -68854,8 +68854,8 @@ a {
   }
 
   .md\:-my-36{
-    margin-top: -9rem;
-    margin-bottom: -9rem;
+    margin-top: -2.25rem;
+    margin-bottom: -2.25rem;
   }
 
   .md\:-my-40{
@@ -69018,7 +69018,7 @@ a {
   }
 
   .md\:mt-36{
-    margin-top: 9rem;
+    margin-top: 2.25rem;
   }
 
   .md\:mt-40{
@@ -69170,7 +69170,7 @@ a {
   }
 
   .md\:-mt-36{
-    margin-top: -9rem;
+    margin-top: -2.25rem;
   }
 
   .md\:-mt-40{
@@ -69318,7 +69318,7 @@ a {
   }
 
   .md\:mr-36{
-    margin-right: 9rem;
+    margin-right: 2.25rem;
   }
 
   .md\:mr-40{
@@ -69470,7 +69470,7 @@ a {
   }
 
   .md\:-mr-36{
-    margin-right: -9rem;
+    margin-right: -2.25rem;
   }
 
   .md\:-mr-40{
@@ -69618,7 +69618,7 @@ a {
   }
 
   .md\:mb-36{
-    margin-bottom: 9rem;
+    margin-bottom: 2.25rem;
   }
 
   .md\:mb-40{
@@ -69770,7 +69770,7 @@ a {
   }
 
   .md\:-mb-36{
-    margin-bottom: -9rem;
+    margin-bottom: -2.25rem;
   }
 
   .md\:-mb-40{
@@ -69918,7 +69918,7 @@ a {
   }
 
   .md\:ml-36{
-    margin-left: 9rem;
+    margin-left: 2.25rem;
   }
 
   .md\:ml-40{
@@ -70070,7 +70070,7 @@ a {
   }
 
   .md\:-ml-36{
-    margin-left: -9rem;
+    margin-left: -2.25rem;
   }
 
   .md\:-ml-40{
@@ -70310,7 +70310,7 @@ a {
   }
 
   .md\:h-36{
-    height: 9rem;
+    height: 2.25rem;
   }
 
   .md\:h-40{
@@ -70530,7 +70530,7 @@ a {
   }
 
   .md\:max-h-36{
-    max-height: 9rem;
+    max-height: 2.25rem;
   }
 
   .md\:max-h-40{
@@ -70698,7 +70698,7 @@ a {
   }
 
   .md\:w-36{
-    width: 9rem;
+    width: 2.25rem;
   }
 
   .md\:w-40{
@@ -71190,7 +71190,7 @@ a {
   }
 
   .md\:translate-x-36{
-    --tw-translate-x: 9rem;
+    --tw-translate-x: 2.25rem;
   }
 
   .md\:translate-x-40{
@@ -71338,7 +71338,7 @@ a {
   }
 
   .md\:-translate-x-36{
-    --tw-translate-x: -9rem;
+    --tw-translate-x: -2.25rem;
   }
 
   .md\:-translate-x-40{
@@ -71542,7 +71542,7 @@ a {
   }
 
   .md\:translate-y-36{
-    --tw-translate-y: 9rem;
+    --tw-translate-y: 2.25rem;
   }
 
   .md\:translate-y-40{
@@ -71690,7 +71690,7 @@ a {
   }
 
   .md\:-translate-y-36{
-    --tw-translate-y: -9rem;
+    --tw-translate-y: -2.25rem;
   }
 
   .md\:-translate-y-40{
@@ -71894,7 +71894,7 @@ a {
   }
 
   .md\:hover\:translate-x-36:hover{
-    --tw-translate-x: 9rem;
+    --tw-translate-x: 2.25rem;
   }
 
   .md\:hover\:translate-x-40:hover{
@@ -72042,7 +72042,7 @@ a {
   }
 
   .md\:hover\:-translate-x-36:hover{
-    --tw-translate-x: -9rem;
+    --tw-translate-x: -2.25rem;
   }
 
   .md\:hover\:-translate-x-40:hover{
@@ -72246,7 +72246,7 @@ a {
   }
 
   .md\:hover\:translate-y-36:hover{
-    --tw-translate-y: 9rem;
+    --tw-translate-y: 2.25rem;
   }
 
   .md\:hover\:translate-y-40:hover{
@@ -72394,7 +72394,7 @@ a {
   }
 
   .md\:hover\:-translate-y-36:hover{
-    --tw-translate-y: -9rem;
+    --tw-translate-y: -2.25rem;
   }
 
   .md\:hover\:-translate-y-40:hover{
@@ -72598,7 +72598,7 @@ a {
   }
 
   .md\:focus\:translate-x-36:focus{
-    --tw-translate-x: 9rem;
+    --tw-translate-x: 2.25rem;
   }
 
   .md\:focus\:translate-x-40:focus{
@@ -72746,7 +72746,7 @@ a {
   }
 
   .md\:focus\:-translate-x-36:focus{
-    --tw-translate-x: -9rem;
+    --tw-translate-x: -2.25rem;
   }
 
   .md\:focus\:-translate-x-40:focus{
@@ -72950,7 +72950,7 @@ a {
   }
 
   .md\:focus\:translate-y-36:focus{
-    --tw-translate-y: 9rem;
+    --tw-translate-y: 2.25rem;
   }
 
   .md\:focus\:translate-y-40:focus{
@@ -73098,7 +73098,7 @@ a {
   }
 
   .md\:focus\:-translate-y-36:focus{
-    --tw-translate-y: -9rem;
+    --tw-translate-y: -2.25rem;
   }
 
   .md\:focus\:-translate-y-40:focus{
@@ -74562,7 +74562,7 @@ a {
   }
 
   .md\:gap-36{
-    gap: 9rem;
+    gap: 2.25rem;
   }
 
   .md\:gap-40{
@@ -74731,8 +74731,8 @@ a {
   }
 
   .md\:gap-x-36{
-    -moz-column-gap: 9rem;
-         column-gap: 9rem;
+    -moz-column-gap: 2.25rem;
+         column-gap: 2.25rem;
   }
 
   .md\:gap-x-40{
@@ -74895,7 +74895,7 @@ a {
   }
 
   .md\:gap-y-36{
-    row-gap: 9rem;
+    row-gap: 2.25rem;
   }
 
   .md\:gap-y-40{
@@ -75086,8 +75086,8 @@ a {
 
   .md\:space-x-36 > :not([hidden]) ~ :not([hidden]){
     --tw-space-x-reverse: 0;
-    margin-right: calc(9rem * var(--tw-space-x-reverse));
-    margin-left: calc(9rem * calc(1 - var(--tw-space-x-reverse)));
+    margin-right: calc(2.25rem * var(--tw-space-x-reverse));
+    margin-left: calc(2.25rem * calc(1 - var(--tw-space-x-reverse)));
   }
 
   .md\:space-x-40 > :not([hidden]) ~ :not([hidden]){
@@ -75308,8 +75308,8 @@ a {
 
   .md\:-space-x-36 > :not([hidden]) ~ :not([hidden]){
     --tw-space-x-reverse: 0;
-    margin-right: calc(-9rem * var(--tw-space-x-reverse));
-    margin-left: calc(-9rem * calc(1 - var(--tw-space-x-reverse)));
+    margin-right: calc(-2.25rem * var(--tw-space-x-reverse));
+    margin-left: calc(-2.25rem * calc(1 - var(--tw-space-x-reverse)));
   }
 
   .md\:-space-x-40 > :not([hidden]) ~ :not([hidden]){
@@ -75530,8 +75530,8 @@ a {
 
   .md\:space-y-36 > :not([hidden]) ~ :not([hidden]){
     --tw-space-y-reverse: 0;
-    margin-top: calc(9rem * calc(1 - var(--tw-space-y-reverse)));
-    margin-bottom: calc(9rem * var(--tw-space-y-reverse));
+    margin-top: calc(2.25rem * calc(1 - var(--tw-space-y-reverse)));
+    margin-bottom: calc(2.25rem * var(--tw-space-y-reverse));
   }
 
   .md\:space-y-40 > :not([hidden]) ~ :not([hidden]){
@@ -75752,8 +75752,8 @@ a {
 
   .md\:-space-y-36 > :not([hidden]) ~ :not([hidden]){
     --tw-space-y-reverse: 0;
-    margin-top: calc(-9rem * calc(1 - var(--tw-space-y-reverse)));
-    margin-bottom: calc(-9rem * var(--tw-space-y-reverse));
+    margin-top: calc(-2.25rem * calc(1 - var(--tw-space-y-reverse)));
+    margin-bottom: calc(-2.25rem * var(--tw-space-y-reverse));
   }
 
   .md\:-space-y-40 > :not([hidden]) ~ :not([hidden]){
@@ -85995,7 +85995,7 @@ a {
   }
 
   .md\:p-36{
-    padding: 9rem;
+    padding: 2.25rem;
   }
 
   .md\:p-40{
@@ -86164,8 +86164,8 @@ a {
   }
 
   .md\:px-36{
-    padding-left: 9rem;
-    padding-right: 9rem;
+    padding-left: 2.25rem;
+    padding-right: 2.25rem;
   }
 
   .md\:px-40{
@@ -86349,8 +86349,8 @@ a {
   }
 
   .md\:py-36{
-    padding-top: 9rem;
-    padding-bottom: 9rem;
+    padding-top: 2.25rem;
+    padding-bottom: 2.25rem;
   }
 
   .md\:py-40{
@@ -86513,7 +86513,7 @@ a {
   }
 
   .md\:pt-36{
-    padding-top: 9rem;
+    padding-top: 2.25rem;
   }
 
   .md\:pt-40{
@@ -86661,7 +86661,7 @@ a {
   }
 
   .md\:pr-36{
-    padding-right: 9rem;
+    padding-right: 2.25rem;
   }
 
   .md\:pr-40{
@@ -86809,7 +86809,7 @@ a {
   }
 
   .md\:pb-36{
-    padding-bottom: 9rem;
+    padding-bottom: 2.25rem;
   }
 
   .md\:pb-40{
@@ -86957,7 +86957,7 @@ a {
   }
 
   .md\:pl-36{
-    padding-left: 9rem;
+    padding-left: 2.25rem;
   }
 
   .md\:pl-40{
@@ -96328,10 +96328,10 @@ a {
   }
 
   .lg\:inset-36{
-    top: 9rem;
-    right: 9rem;
-    bottom: 9rem;
-    left: 9rem;
+    top: 2.25rem;
+    right: 2.25rem;
+    bottom: 2.25rem;
+    left: 2.25rem;
   }
 
   .lg\:inset-40{
@@ -96594,10 +96594,10 @@ a {
   }
 
   .lg\:-inset-36{
-    top: -9rem;
-    right: -9rem;
-    bottom: -9rem;
-    left: -9rem;
+    top: -2.25rem;
+    right: -2.25rem;
+    bottom: -2.25rem;
+    left: -2.25rem;
   }
 
   .lg\:-inset-40{
@@ -96909,8 +96909,8 @@ a {
   }
 
   .lg\:inset-x-36{
-    left: 9rem;
-    right: 9rem;
+    left: 2.25rem;
+    right: 2.25rem;
   }
 
   .lg\:inset-x-40{
@@ -97099,8 +97099,8 @@ a {
   }
 
   .lg\:-inset-x-36{
-    left: -9rem;
-    right: -9rem;
+    left: -2.25rem;
+    right: -2.25rem;
   }
 
   .lg\:-inset-x-40{
@@ -97354,8 +97354,8 @@ a {
   }
 
   .lg\:inset-y-36{
-    top: 9rem;
-    bottom: 9rem;
+    top: 2.25rem;
+    bottom: 2.25rem;
   }
 
   .lg\:inset-y-40{
@@ -97544,8 +97544,8 @@ a {
   }
 
   .lg\:-inset-y-36{
-    top: -9rem;
-    bottom: -9rem;
+    top: -2.25rem;
+    bottom: -2.25rem;
   }
 
   .lg\:-inset-y-40{
@@ -97778,7 +97778,7 @@ a {
   }
 
   .lg\:top-36{
-    top: 9rem;
+    top: 2.25rem;
   }
 
   .lg\:top-40{
@@ -97930,7 +97930,7 @@ a {
   }
 
   .lg\:-top-36{
-    top: -9rem;
+    top: -2.25rem;
   }
 
   .lg\:-top-40{
@@ -98134,7 +98134,7 @@ a {
   }
 
   .lg\:right-36{
-    right: 9rem;
+    right: 2.25rem;
   }
 
   .lg\:right-40{
@@ -98286,7 +98286,7 @@ a {
   }
 
   .lg\:-right-36{
-    right: -9rem;
+    right: -2.25rem;
   }
 
   .lg\:-right-40{
@@ -98490,7 +98490,7 @@ a {
   }
 
   .lg\:bottom-36{
-    bottom: 9rem;
+    bottom: 2.25rem;
   }
 
   .lg\:bottom-40{
@@ -98642,7 +98642,7 @@ a {
   }
 
   .lg\:-bottom-36{
-    bottom: -9rem;
+    bottom: -2.25rem;
   }
 
   .lg\:-bottom-40{
@@ -98846,7 +98846,7 @@ a {
   }
 
   .lg\:left-36{
-    left: 9rem;
+    left: 2.25rem;
   }
 
   .lg\:left-40{
@@ -98998,7 +98998,7 @@ a {
   }
 
   .lg\:-left-36{
-    left: -9rem;
+    left: -2.25rem;
   }
 
   .lg\:-left-40{
@@ -99646,7 +99646,7 @@ a {
   }
 
   .lg\:m-36{
-    margin: 9rem;
+    margin: 2.25rem;
   }
 
   .lg\:m-40{
@@ -99798,7 +99798,7 @@ a {
   }
 
   .lg\:-m-36{
-    margin: -9rem;
+    margin: -2.25rem;
   }
 
   .lg\:-m-40{
@@ -99967,8 +99967,8 @@ a {
   }
 
   .lg\:mx-36{
-    margin-left: 9rem;
-    margin-right: 9rem;
+    margin-left: 2.25rem;
+    margin-right: 2.25rem;
   }
 
   .lg\:mx-40{
@@ -100157,8 +100157,8 @@ a {
   }
 
   .lg\:-mx-36{
-    margin-left: -9rem;
-    margin-right: -9rem;
+    margin-left: -2.25rem;
+    margin-right: -2.25rem;
   }
 
   .lg\:-mx-40{
@@ -100342,8 +100342,8 @@ a {
   }
 
   .lg\:my-36{
-    margin-top: 9rem;
-    margin-bottom: 9rem;
+    margin-top: 2.25rem;
+    margin-bottom: 2.25rem;
   }
 
   .lg\:my-40{
@@ -100532,8 +100532,8 @@ a {
   }
 
   .lg\:-my-36{
-    margin-top: -9rem;
-    margin-bottom: -9rem;
+    margin-top: -2.25rem;
+    margin-bottom: -2.25rem;
   }
 
   .lg\:-my-40{
@@ -100696,7 +100696,7 @@ a {
   }
 
   .lg\:mt-36{
-    margin-top: 9rem;
+    margin-top: 2.25rem;
   }
 
   .lg\:mt-40{
@@ -100848,7 +100848,7 @@ a {
   }
 
   .lg\:-mt-36{
-    margin-top: -9rem;
+    margin-top: -2.25rem;
   }
 
   .lg\:-mt-40{
@@ -100996,7 +100996,7 @@ a {
   }
 
   .lg\:mr-36{
-    margin-right: 9rem;
+    margin-right: 2.25rem;
   }
 
   .lg\:mr-40{
@@ -101148,7 +101148,7 @@ a {
   }
 
   .lg\:-mr-36{
-    margin-right: -9rem;
+    margin-right: -2.25rem;
   }
 
   .lg\:-mr-40{
@@ -101296,7 +101296,7 @@ a {
   }
 
   .lg\:mb-36{
-    margin-bottom: 9rem;
+    margin-bottom: 2.25rem;
   }
 
   .lg\:mb-40{
@@ -101448,7 +101448,7 @@ a {
   }
 
   .lg\:-mb-36{
-    margin-bottom: -9rem;
+    margin-bottom: -2.25rem;
   }
 
   .lg\:-mb-40{
@@ -101596,7 +101596,7 @@ a {
   }
 
   .lg\:ml-36{
-    margin-left: 9rem;
+    margin-left: 2.25rem;
   }
 
   .lg\:ml-40{
@@ -101748,7 +101748,7 @@ a {
   }
 
   .lg\:-ml-36{
-    margin-left: -9rem;
+    margin-left: -2.25rem;
   }
 
   .lg\:-ml-40{
@@ -101988,7 +101988,7 @@ a {
   }
 
   .lg\:h-36{
-    height: 9rem;
+    height: 2.25rem;
   }
 
   .lg\:h-40{
@@ -102208,7 +102208,7 @@ a {
   }
 
   .lg\:max-h-36{
-    max-height: 9rem;
+    max-height: 2.25rem;
   }
 
   .lg\:max-h-40{
@@ -102376,7 +102376,7 @@ a {
   }
 
   .lg\:w-36{
-    width: 9rem;
+    width: 2.25rem;
   }
 
   .lg\:w-40{
@@ -102868,7 +102868,7 @@ a {
   }
 
   .lg\:translate-x-36{
-    --tw-translate-x: 9rem;
+    --tw-translate-x: 2.25rem;
   }
 
   .lg\:translate-x-40{
@@ -103016,7 +103016,7 @@ a {
   }
 
   .lg\:-translate-x-36{
-    --tw-translate-x: -9rem;
+    --tw-translate-x: -2.25rem;
   }
 
   .lg\:-translate-x-40{
@@ -103220,7 +103220,7 @@ a {
   }
 
   .lg\:translate-y-36{
-    --tw-translate-y: 9rem;
+    --tw-translate-y: 2.25rem;
   }
 
   .lg\:translate-y-40{
@@ -103368,7 +103368,7 @@ a {
   }
 
   .lg\:-translate-y-36{
-    --tw-translate-y: -9rem;
+    --tw-translate-y: -2.25rem;
   }
 
   .lg\:-translate-y-40{
@@ -103572,7 +103572,7 @@ a {
   }
 
   .lg\:hover\:translate-x-36:hover{
-    --tw-translate-x: 9rem;
+    --tw-translate-x: 2.25rem;
   }
 
   .lg\:hover\:translate-x-40:hover{
@@ -103720,7 +103720,7 @@ a {
   }
 
   .lg\:hover\:-translate-x-36:hover{
-    --tw-translate-x: -9rem;
+    --tw-translate-x: -2.25rem;
   }
 
   .lg\:hover\:-translate-x-40:hover{
@@ -103924,7 +103924,7 @@ a {
   }
 
   .lg\:hover\:translate-y-36:hover{
-    --tw-translate-y: 9rem;
+    --tw-translate-y: 2.25rem;
   }
 
   .lg\:hover\:translate-y-40:hover{
@@ -104072,7 +104072,7 @@ a {
   }
 
   .lg\:hover\:-translate-y-36:hover{
-    --tw-translate-y: -9rem;
+    --tw-translate-y: -2.25rem;
   }
 
   .lg\:hover\:-translate-y-40:hover{
@@ -104276,7 +104276,7 @@ a {
   }
 
   .lg\:focus\:translate-x-36:focus{
-    --tw-translate-x: 9rem;
+    --tw-translate-x: 2.25rem;
   }
 
   .lg\:focus\:translate-x-40:focus{
@@ -104424,7 +104424,7 @@ a {
   }
 
   .lg\:focus\:-translate-x-36:focus{
-    --tw-translate-x: -9rem;
+    --tw-translate-x: -2.25rem;
   }
 
   .lg\:focus\:-translate-x-40:focus{
@@ -104628,7 +104628,7 @@ a {
   }
 
   .lg\:focus\:translate-y-36:focus{
-    --tw-translate-y: 9rem;
+    --tw-translate-y: 2.25rem;
   }
 
   .lg\:focus\:translate-y-40:focus{
@@ -104776,7 +104776,7 @@ a {
   }
 
   .lg\:focus\:-translate-y-36:focus{
-    --tw-translate-y: -9rem;
+    --tw-translate-y: -2.25rem;
   }
 
   .lg\:focus\:-translate-y-40:focus{
@@ -106240,7 +106240,7 @@ a {
   }
 
   .lg\:gap-36{
-    gap: 9rem;
+    gap: 2.25rem;
   }
 
   .lg\:gap-40{
@@ -106409,8 +106409,8 @@ a {
   }
 
   .lg\:gap-x-36{
-    -moz-column-gap: 9rem;
-         column-gap: 9rem;
+    -moz-column-gap: 2.25rem;
+         column-gap: 2.25rem;
   }
 
   .lg\:gap-x-40{
@@ -106573,7 +106573,7 @@ a {
   }
 
   .lg\:gap-y-36{
-    row-gap: 9rem;
+    row-gap: 2.25rem;
   }
 
   .lg\:gap-y-40{
@@ -106764,8 +106764,8 @@ a {
 
   .lg\:space-x-36 > :not([hidden]) ~ :not([hidden]){
     --tw-space-x-reverse: 0;
-    margin-right: calc(9rem * var(--tw-space-x-reverse));
-    margin-left: calc(9rem * calc(1 - var(--tw-space-x-reverse)));
+    margin-right: calc(2.25rem * var(--tw-space-x-reverse));
+    margin-left: calc(2.25rem * calc(1 - var(--tw-space-x-reverse)));
   }
 
   .lg\:space-x-40 > :not([hidden]) ~ :not([hidden]){
@@ -106986,8 +106986,8 @@ a {
 
   .lg\:-space-x-36 > :not([hidden]) ~ :not([hidden]){
     --tw-space-x-reverse: 0;
-    margin-right: calc(-9rem * var(--tw-space-x-reverse));
-    margin-left: calc(-9rem * calc(1 - var(--tw-space-x-reverse)));
+    margin-right: calc(-2.25rem * var(--tw-space-x-reverse));
+    margin-left: calc(-2.25rem * calc(1 - var(--tw-space-x-reverse)));
   }
 
   .lg\:-space-x-40 > :not([hidden]) ~ :not([hidden]){
@@ -107208,8 +107208,8 @@ a {
 
   .lg\:space-y-36 > :not([hidden]) ~ :not([hidden]){
     --tw-space-y-reverse: 0;
-    margin-top: calc(9rem * calc(1 - var(--tw-space-y-reverse)));
-    margin-bottom: calc(9rem * var(--tw-space-y-reverse));
+    margin-top: calc(2.25rem * calc(1 - var(--tw-space-y-reverse)));
+    margin-bottom: calc(2.25rem * var(--tw-space-y-reverse));
   }
 
   .lg\:space-y-40 > :not([hidden]) ~ :not([hidden]){
@@ -107430,8 +107430,8 @@ a {
 
   .lg\:-space-y-36 > :not([hidden]) ~ :not([hidden]){
     --tw-space-y-reverse: 0;
-    margin-top: calc(-9rem * calc(1 - var(--tw-space-y-reverse)));
-    margin-bottom: calc(-9rem * var(--tw-space-y-reverse));
+    margin-top: calc(-2.25rem * calc(1 - var(--tw-space-y-reverse)));
+    margin-bottom: calc(-2.25rem * var(--tw-space-y-reverse));
   }
 
   .lg\:-space-y-40 > :not([hidden]) ~ :not([hidden]){
@@ -117673,7 +117673,7 @@ a {
   }
 
   .lg\:p-36{
-    padding: 9rem;
+    padding: 2.25rem;
   }
 
   .lg\:p-40{
@@ -117842,8 +117842,8 @@ a {
   }
 
   .lg\:px-36{
-    padding-left: 9rem;
-    padding-right: 9rem;
+    padding-left: 2.25rem;
+    padding-right: 2.25rem;
   }
 
   .lg\:px-40{
@@ -118027,8 +118027,8 @@ a {
   }
 
   .lg\:py-36{
-    padding-top: 9rem;
-    padding-bottom: 9rem;
+    padding-top: 2.25rem;
+    padding-bottom: 2.25rem;
   }
 
   .lg\:py-40{
@@ -118191,7 +118191,7 @@ a {
   }
 
   .lg\:pt-36{
-    padding-top: 9rem;
+    padding-top: 2.25rem;
   }
 
   .lg\:pt-40{
@@ -118339,7 +118339,7 @@ a {
   }
 
   .lg\:pr-36{
-    padding-right: 9rem;
+    padding-right: 2.25rem;
   }
 
   .lg\:pr-40{
@@ -118487,7 +118487,7 @@ a {
   }
 
   .lg\:pb-36{
-    padding-bottom: 9rem;
+    padding-bottom: 2.25rem;
   }
 
   .lg\:pb-40{
@@ -118635,7 +118635,7 @@ a {
   }
 
   .lg\:pl-36{
-    padding-left: 9rem;
+    padding-left: 2.25rem;
   }
 
   .lg\:pl-40{
@@ -128006,10 +128006,10 @@ a {
   }
 
   .xl\:inset-36{
-    top: 9rem;
-    right: 9rem;
-    bottom: 9rem;
-    left: 9rem;
+    top: 2.25rem;
+    right: 2.25rem;
+    bottom: 2.25rem;
+    left: 2.25rem;
   }
 
   .xl\:inset-40{
@@ -128272,10 +128272,10 @@ a {
   }
 
   .xl\:-inset-36{
-    top: -9rem;
-    right: -9rem;
-    bottom: -9rem;
-    left: -9rem;
+    top: -2.25rem;
+    right: -2.25rem;
+    bottom: -2.25rem;
+    left: -2.25rem;
   }
 
   .xl\:-inset-40{
@@ -128587,8 +128587,8 @@ a {
   }
 
   .xl\:inset-x-36{
-    left: 9rem;
-    right: 9rem;
+    left: 2.25rem;
+    right: 2.25rem;
   }
 
   .xl\:inset-x-40{
@@ -128777,8 +128777,8 @@ a {
   }
 
   .xl\:-inset-x-36{
-    left: -9rem;
-    right: -9rem;
+    left: -2.25rem;
+    right: -2.25rem;
   }
 
   .xl\:-inset-x-40{
@@ -129032,8 +129032,8 @@ a {
   }
 
   .xl\:inset-y-36{
-    top: 9rem;
-    bottom: 9rem;
+    top: 2.25rem;
+    bottom: 2.25rem;
   }
 
   .xl\:inset-y-40{
@@ -129222,8 +129222,8 @@ a {
   }
 
   .xl\:-inset-y-36{
-    top: -9rem;
-    bottom: -9rem;
+    top: -2.25rem;
+    bottom: -2.25rem;
   }
 
   .xl\:-inset-y-40{
@@ -129456,7 +129456,7 @@ a {
   }
 
   .xl\:top-36{
-    top: 9rem;
+    top: 2.25rem;
   }
 
   .xl\:top-40{
@@ -129608,7 +129608,7 @@ a {
   }
 
   .xl\:-top-36{
-    top: -9rem;
+    top: -2.25rem;
   }
 
   .xl\:-top-40{
@@ -129812,7 +129812,7 @@ a {
   }
 
   .xl\:right-36{
-    right: 9rem;
+    right: 2.25rem;
   }
 
   .xl\:right-40{
@@ -129964,7 +129964,7 @@ a {
   }
 
   .xl\:-right-36{
-    right: -9rem;
+    right: -2.25rem;
   }
 
   .xl\:-right-40{
@@ -130168,7 +130168,7 @@ a {
   }
 
   .xl\:bottom-36{
-    bottom: 9rem;
+    bottom: 2.25rem;
   }
 
   .xl\:bottom-40{
@@ -130320,7 +130320,7 @@ a {
   }
 
   .xl\:-bottom-36{
-    bottom: -9rem;
+    bottom: -2.25rem;
   }
 
   .xl\:-bottom-40{
@@ -130524,7 +130524,7 @@ a {
   }
 
   .xl\:left-36{
-    left: 9rem;
+    left: 2.25rem;
   }
 
   .xl\:left-40{
@@ -130676,7 +130676,7 @@ a {
   }
 
   .xl\:-left-36{
-    left: -9rem;
+    left: -2.25rem;
   }
 
   .xl\:-left-40{
@@ -131324,7 +131324,7 @@ a {
   }
 
   .xl\:m-36{
-    margin: 9rem;
+    margin: 2.25rem;
   }
 
   .xl\:m-40{
@@ -131476,7 +131476,7 @@ a {
   }
 
   .xl\:-m-36{
-    margin: -9rem;
+    margin: -2.25rem;
   }
 
   .xl\:-m-40{
@@ -131645,8 +131645,8 @@ a {
   }
 
   .xl\:mx-36{
-    margin-left: 9rem;
-    margin-right: 9rem;
+    margin-left: 2.25rem;
+    margin-right: 2.25rem;
   }
 
   .xl\:mx-40{
@@ -131835,8 +131835,8 @@ a {
   }
 
   .xl\:-mx-36{
-    margin-left: -9rem;
-    margin-right: -9rem;
+    margin-left: -2.25rem;
+    margin-right: -2.25rem;
   }
 
   .xl\:-mx-40{
@@ -132020,8 +132020,8 @@ a {
   }
 
   .xl\:my-36{
-    margin-top: 9rem;
-    margin-bottom: 9rem;
+    margin-top: 2.25rem;
+    margin-bottom: 2.25rem;
   }
 
   .xl\:my-40{
@@ -132210,8 +132210,8 @@ a {
   }
 
   .xl\:-my-36{
-    margin-top: -9rem;
-    margin-bottom: -9rem;
+    margin-top: -2.25rem;
+    margin-bottom: -2.25rem;
   }
 
   .xl\:-my-40{
@@ -132374,7 +132374,7 @@ a {
   }
 
   .xl\:mt-36{
-    margin-top: 9rem;
+    margin-top: 2.25rem;
   }
 
   .xl\:mt-40{
@@ -132526,7 +132526,7 @@ a {
   }
 
   .xl\:-mt-36{
-    margin-top: -9rem;
+    margin-top: -2.25rem;
   }
 
   .xl\:-mt-40{
@@ -132674,7 +132674,7 @@ a {
   }
 
   .xl\:mr-36{
-    margin-right: 9rem;
+    margin-right: 2.25rem;
   }
 
   .xl\:mr-40{
@@ -132826,7 +132826,7 @@ a {
   }
 
   .xl\:-mr-36{
-    margin-right: -9rem;
+    margin-right: -2.25rem;
   }
 
   .xl\:-mr-40{
@@ -132974,7 +132974,7 @@ a {
   }
 
   .xl\:mb-36{
-    margin-bottom: 9rem;
+    margin-bottom: 2.25rem;
   }
 
   .xl\:mb-40{
@@ -133126,7 +133126,7 @@ a {
   }
 
   .xl\:-mb-36{
-    margin-bottom: -9rem;
+    margin-bottom: -2.25rem;
   }
 
   .xl\:-mb-40{
@@ -133274,7 +133274,7 @@ a {
   }
 
   .xl\:ml-36{
-    margin-left: 9rem;
+    margin-left: 2.25rem;
   }
 
   .xl\:ml-40{
@@ -133426,7 +133426,7 @@ a {
   }
 
   .xl\:-ml-36{
-    margin-left: -9rem;
+    margin-left: -2.25rem;
   }
 
   .xl\:-ml-40{
@@ -133666,7 +133666,7 @@ a {
   }
 
   .xl\:h-36{
-    height: 9rem;
+    height: 2.25rem;
   }
 
   .xl\:h-40{
@@ -133886,7 +133886,7 @@ a {
   }
 
   .xl\:max-h-36{
-    max-height: 9rem;
+    max-height: 2.25rem;
   }
 
   .xl\:max-h-40{
@@ -134054,7 +134054,7 @@ a {
   }
 
   .xl\:w-36{
-    width: 9rem;
+    width: 2.25rem;
   }
 
   .xl\:w-40{
@@ -134546,7 +134546,7 @@ a {
   }
 
   .xl\:translate-x-36{
-    --tw-translate-x: 9rem;
+    --tw-translate-x: 2.25rem;
   }
 
   .xl\:translate-x-40{
@@ -134694,7 +134694,7 @@ a {
   }
 
   .xl\:-translate-x-36{
-    --tw-translate-x: -9rem;
+    --tw-translate-x: -2.25rem;
   }
 
   .xl\:-translate-x-40{
@@ -134898,7 +134898,7 @@ a {
   }
 
   .xl\:translate-y-36{
-    --tw-translate-y: 9rem;
+    --tw-translate-y: 2.25rem;
   }
 
   .xl\:translate-y-40{
@@ -135046,7 +135046,7 @@ a {
   }
 
   .xl\:-translate-y-36{
-    --tw-translate-y: -9rem;
+    --tw-translate-y: -2.25rem;
   }
 
   .xl\:-translate-y-40{
@@ -135250,7 +135250,7 @@ a {
   }
 
   .xl\:hover\:translate-x-36:hover{
-    --tw-translate-x: 9rem;
+    --tw-translate-x: 2.25rem;
   }
 
   .xl\:hover\:translate-x-40:hover{
@@ -135398,7 +135398,7 @@ a {
   }
 
   .xl\:hover\:-translate-x-36:hover{
-    --tw-translate-x: -9rem;
+    --tw-translate-x: -2.25rem;
   }
 
   .xl\:hover\:-translate-x-40:hover{
@@ -135602,7 +135602,7 @@ a {
   }
 
   .xl\:hover\:translate-y-36:hover{
-    --tw-translate-y: 9rem;
+    --tw-translate-y: 2.25rem;
   }
 
   .xl\:hover\:translate-y-40:hover{
@@ -135750,7 +135750,7 @@ a {
   }
 
   .xl\:hover\:-translate-y-36:hover{
-    --tw-translate-y: -9rem;
+    --tw-translate-y: -2.25rem;
   }
 
   .xl\:hover\:-translate-y-40:hover{
@@ -135954,7 +135954,7 @@ a {
   }
 
   .xl\:focus\:translate-x-36:focus{
-    --tw-translate-x: 9rem;
+    --tw-translate-x: 2.25rem;
   }
 
   .xl\:focus\:translate-x-40:focus{
@@ -136102,7 +136102,7 @@ a {
   }
 
   .xl\:focus\:-translate-x-36:focus{
-    --tw-translate-x: -9rem;
+    --tw-translate-x: -2.25rem;
   }
 
   .xl\:focus\:-translate-x-40:focus{
@@ -136306,7 +136306,7 @@ a {
   }
 
   .xl\:focus\:translate-y-36:focus{
-    --tw-translate-y: 9rem;
+    --tw-translate-y: 2.25rem;
   }
 
   .xl\:focus\:translate-y-40:focus{
@@ -136454,7 +136454,7 @@ a {
   }
 
   .xl\:focus\:-translate-y-36:focus{
-    --tw-translate-y: -9rem;
+    --tw-translate-y: -2.25rem;
   }
 
   .xl\:focus\:-translate-y-40:focus{
@@ -137918,7 +137918,7 @@ a {
   }
 
   .xl\:gap-36{
-    gap: 9rem;
+    gap: 2.25rem;
   }
 
   .xl\:gap-40{
@@ -138087,8 +138087,8 @@ a {
   }
 
   .xl\:gap-x-36{
-    -moz-column-gap: 9rem;
-         column-gap: 9rem;
+    -moz-column-gap: 2.25rem;
+         column-gap: 2.25rem;
   }
 
   .xl\:gap-x-40{
@@ -138251,7 +138251,7 @@ a {
   }
 
   .xl\:gap-y-36{
-    row-gap: 9rem;
+    row-gap: 2.25rem;
   }
 
   .xl\:gap-y-40{
@@ -138442,8 +138442,8 @@ a {
 
   .xl\:space-x-36 > :not([hidden]) ~ :not([hidden]){
     --tw-space-x-reverse: 0;
-    margin-right: calc(9rem * var(--tw-space-x-reverse));
-    margin-left: calc(9rem * calc(1 - var(--tw-space-x-reverse)));
+    margin-right: calc(2.25rem * var(--tw-space-x-reverse));
+    margin-left: calc(2.25rem * calc(1 - var(--tw-space-x-reverse)));
   }
 
   .xl\:space-x-40 > :not([hidden]) ~ :not([hidden]){
@@ -138664,8 +138664,8 @@ a {
 
   .xl\:-space-x-36 > :not([hidden]) ~ :not([hidden]){
     --tw-space-x-reverse: 0;
-    margin-right: calc(-9rem * var(--tw-space-x-reverse));
-    margin-left: calc(-9rem * calc(1 - var(--tw-space-x-reverse)));
+    margin-right: calc(-2.25rem * var(--tw-space-x-reverse));
+    margin-left: calc(-2.25rem * calc(1 - var(--tw-space-x-reverse)));
   }
 
   .xl\:-space-x-40 > :not([hidden]) ~ :not([hidden]){
@@ -138886,8 +138886,8 @@ a {
 
   .xl\:space-y-36 > :not([hidden]) ~ :not([hidden]){
     --tw-space-y-reverse: 0;
-    margin-top: calc(9rem * calc(1 - var(--tw-space-y-reverse)));
-    margin-bottom: calc(9rem * var(--tw-space-y-reverse));
+    margin-top: calc(2.25rem * calc(1 - var(--tw-space-y-reverse)));
+    margin-bottom: calc(2.25rem * var(--tw-space-y-reverse));
   }
 
   .xl\:space-y-40 > :not([hidden]) ~ :not([hidden]){
@@ -139108,8 +139108,8 @@ a {
 
   .xl\:-space-y-36 > :not([hidden]) ~ :not([hidden]){
     --tw-space-y-reverse: 0;
-    margin-top: calc(-9rem * calc(1 - var(--tw-space-y-reverse)));
-    margin-bottom: calc(-9rem * var(--tw-space-y-reverse));
+    margin-top: calc(-2.25rem * calc(1 - var(--tw-space-y-reverse)));
+    margin-bottom: calc(-2.25rem * var(--tw-space-y-reverse));
   }
 
   .xl\:-space-y-40 > :not([hidden]) ~ :not([hidden]){
@@ -149351,7 +149351,7 @@ a {
   }
 
   .xl\:p-36{
-    padding: 9rem;
+    padding: 2.25rem;
   }
 
   .xl\:p-40{
@@ -149520,8 +149520,8 @@ a {
   }
 
   .xl\:px-36{
-    padding-left: 9rem;
-    padding-right: 9rem;
+    padding-left: 2.25rem;
+    padding-right: 2.25rem;
   }
 
   .xl\:px-40{
@@ -149705,8 +149705,8 @@ a {
   }
 
   .xl\:py-36{
-    padding-top: 9rem;
-    padding-bottom: 9rem;
+    padding-top: 2.25rem;
+    padding-bottom: 2.25rem;
   }
 
   .xl\:py-40{
@@ -149869,7 +149869,7 @@ a {
   }
 
   .xl\:pt-36{
-    padding-top: 9rem;
+    padding-top: 2.25rem;
   }
 
   .xl\:pt-40{
@@ -150017,7 +150017,7 @@ a {
   }
 
   .xl\:pr-36{
-    padding-right: 9rem;
+    padding-right: 2.25rem;
   }
 
   .xl\:pr-40{
@@ -150165,7 +150165,7 @@ a {
   }
 
   .xl\:pb-36{
-    padding-bottom: 9rem;
+    padding-bottom: 2.25rem;
   }
 
   .xl\:pb-40{
@@ -150313,7 +150313,7 @@ a {
   }
 
   .xl\:pl-36{
-    padding-left: 9rem;
+    padding-left: 2.25rem;
   }
 
   .xl\:pl-40{
@@ -159684,10 +159684,10 @@ a {
   }
 
   .\32xl\:inset-36{
-    top: 9rem;
-    right: 9rem;
-    bottom: 9rem;
-    left: 9rem;
+    top: 2.25rem;
+    right: 2.25rem;
+    bottom: 2.25rem;
+    left: 2.25rem;
   }
 
   .\32xl\:inset-40{
@@ -159950,10 +159950,10 @@ a {
   }
 
   .\32xl\:-inset-36{
-    top: -9rem;
-    right: -9rem;
-    bottom: -9rem;
-    left: -9rem;
+    top: -2.25rem;
+    right: -2.25rem;
+    bottom: -2.25rem;
+    left: -2.25rem;
   }
 
   .\32xl\:-inset-40{
@@ -160265,8 +160265,8 @@ a {
   }
 
   .\32xl\:inset-x-36{
-    left: 9rem;
-    right: 9rem;
+    left: 2.25rem;
+    right: 2.25rem;
   }
 
   .\32xl\:inset-x-40{
@@ -160455,8 +160455,8 @@ a {
   }
 
   .\32xl\:-inset-x-36{
-    left: -9rem;
-    right: -9rem;
+    left: -2.25rem;
+    right: -2.25rem;
   }
 
   .\32xl\:-inset-x-40{
@@ -160710,8 +160710,8 @@ a {
   }
 
   .\32xl\:inset-y-36{
-    top: 9rem;
-    bottom: 9rem;
+    top: 2.25rem;
+    bottom: 2.25rem;
   }
 
   .\32xl\:inset-y-40{
@@ -160900,8 +160900,8 @@ a {
   }
 
   .\32xl\:-inset-y-36{
-    top: -9rem;
-    bottom: -9rem;
+    top: -2.25rem;
+    bottom: -2.25rem;
   }
 
   .\32xl\:-inset-y-40{
@@ -161134,7 +161134,7 @@ a {
   }
 
   .\32xl\:top-36{
-    top: 9rem;
+    top: 2.25rem;
   }
 
   .\32xl\:top-40{
@@ -161286,7 +161286,7 @@ a {
   }
 
   .\32xl\:-top-36{
-    top: -9rem;
+    top: -2.25rem;
   }
 
   .\32xl\:-top-40{
@@ -161490,7 +161490,7 @@ a {
   }
 
   .\32xl\:right-36{
-    right: 9rem;
+    right: 2.25rem;
   }
 
   .\32xl\:right-40{
@@ -161642,7 +161642,7 @@ a {
   }
 
   .\32xl\:-right-36{
-    right: -9rem;
+    right: -2.25rem;
   }
 
   .\32xl\:-right-40{
@@ -161846,7 +161846,7 @@ a {
   }
 
   .\32xl\:bottom-36{
-    bottom: 9rem;
+    bottom: 2.25rem;
   }
 
   .\32xl\:bottom-40{
@@ -161998,7 +161998,7 @@ a {
   }
 
   .\32xl\:-bottom-36{
-    bottom: -9rem;
+    bottom: -2.25rem;
   }
 
   .\32xl\:-bottom-40{
@@ -162202,7 +162202,7 @@ a {
   }
 
   .\32xl\:left-36{
-    left: 9rem;
+    left: 2.25rem;
   }
 
   .\32xl\:left-40{
@@ -162354,7 +162354,7 @@ a {
   }
 
   .\32xl\:-left-36{
-    left: -9rem;
+    left: -2.25rem;
   }
 
   .\32xl\:-left-40{
@@ -163002,7 +163002,7 @@ a {
   }
 
   .\32xl\:m-36{
-    margin: 9rem;
+    margin: 2.25rem;
   }
 
   .\32xl\:m-40{
@@ -163154,7 +163154,7 @@ a {
   }
 
   .\32xl\:-m-36{
-    margin: -9rem;
+    margin: -2.25rem;
   }
 
   .\32xl\:-m-40{
@@ -163323,8 +163323,8 @@ a {
   }
 
   .\32xl\:mx-36{
-    margin-left: 9rem;
-    margin-right: 9rem;
+    margin-left: 2.25rem;
+    margin-right: 2.25rem;
   }
 
   .\32xl\:mx-40{
@@ -163513,8 +163513,8 @@ a {
   }
 
   .\32xl\:-mx-36{
-    margin-left: -9rem;
-    margin-right: -9rem;
+    margin-left: -2.25rem;
+    margin-right: -2.25rem;
   }
 
   .\32xl\:-mx-40{
@@ -163698,8 +163698,8 @@ a {
   }
 
   .\32xl\:my-36{
-    margin-top: 9rem;
-    margin-bottom: 9rem;
+    margin-top: 2.25rem;
+    margin-bottom: 2.25rem;
   }
 
   .\32xl\:my-40{
@@ -163888,8 +163888,8 @@ a {
   }
 
   .\32xl\:-my-36{
-    margin-top: -9rem;
-    margin-bottom: -9rem;
+    margin-top: -2.25rem;
+    margin-bottom: -2.25rem;
   }
 
   .\32xl\:-my-40{
@@ -164052,7 +164052,7 @@ a {
   }
 
   .\32xl\:mt-36{
-    margin-top: 9rem;
+    margin-top: 2.25rem;
   }
 
   .\32xl\:mt-40{
@@ -164204,7 +164204,7 @@ a {
   }
 
   .\32xl\:-mt-36{
-    margin-top: -9rem;
+    margin-top: -2.25rem;
   }
 
   .\32xl\:-mt-40{
@@ -164352,7 +164352,7 @@ a {
   }
 
   .\32xl\:mr-36{
-    margin-right: 9rem;
+    margin-right: 2.25rem;
   }
 
   .\32xl\:mr-40{
@@ -164504,7 +164504,7 @@ a {
   }
 
   .\32xl\:-mr-36{
-    margin-right: -9rem;
+    margin-right: -2.25rem;
   }
 
   .\32xl\:-mr-40{
@@ -164652,7 +164652,7 @@ a {
   }
 
   .\32xl\:mb-36{
-    margin-bottom: 9rem;
+    margin-bottom: 2.25rem;
   }
 
   .\32xl\:mb-40{
@@ -164804,7 +164804,7 @@ a {
   }
 
   .\32xl\:-mb-36{
-    margin-bottom: -9rem;
+    margin-bottom: -2.25rem;
   }
 
   .\32xl\:-mb-40{
@@ -164952,7 +164952,7 @@ a {
   }
 
   .\32xl\:ml-36{
-    margin-left: 9rem;
+    margin-left: 2.25rem;
   }
 
   .\32xl\:ml-40{
@@ -165104,7 +165104,7 @@ a {
   }
 
   .\32xl\:-ml-36{
-    margin-left: -9rem;
+    margin-left: -2.25rem;
   }
 
   .\32xl\:-ml-40{
@@ -165344,7 +165344,7 @@ a {
   }
 
   .\32xl\:h-36{
-    height: 9rem;
+    height: 2.25rem;
   }
 
   .\32xl\:h-40{
@@ -165564,7 +165564,7 @@ a {
   }
 
   .\32xl\:max-h-36{
-    max-height: 9rem;
+    max-height: 2.25rem;
   }
 
   .\32xl\:max-h-40{
@@ -165732,7 +165732,7 @@ a {
   }
 
   .\32xl\:w-36{
-    width: 9rem;
+    width: 2.25rem;
   }
 
   .\32xl\:w-40{
@@ -166224,7 +166224,7 @@ a {
   }
 
   .\32xl\:translate-x-36{
-    --tw-translate-x: 9rem;
+    --tw-translate-x: 2.25rem;
   }
 
   .\32xl\:translate-x-40{
@@ -166372,7 +166372,7 @@ a {
   }
 
   .\32xl\:-translate-x-36{
-    --tw-translate-x: -9rem;
+    --tw-translate-x: -2.25rem;
   }
 
   .\32xl\:-translate-x-40{
@@ -166576,7 +166576,7 @@ a {
   }
 
   .\32xl\:translate-y-36{
-    --tw-translate-y: 9rem;
+    --tw-translate-y: 2.25rem;
   }
 
   .\32xl\:translate-y-40{
@@ -166724,7 +166724,7 @@ a {
   }
 
   .\32xl\:-translate-y-36{
-    --tw-translate-y: -9rem;
+    --tw-translate-y: -2.25rem;
   }
 
   .\32xl\:-translate-y-40{
@@ -166928,7 +166928,7 @@ a {
   }
 
   .\32xl\:hover\:translate-x-36:hover{
-    --tw-translate-x: 9rem;
+    --tw-translate-x: 2.25rem;
   }
 
   .\32xl\:hover\:translate-x-40:hover{
@@ -167076,7 +167076,7 @@ a {
   }
 
   .\32xl\:hover\:-translate-x-36:hover{
-    --tw-translate-x: -9rem;
+    --tw-translate-x: -2.25rem;
   }
 
   .\32xl\:hover\:-translate-x-40:hover{
@@ -167280,7 +167280,7 @@ a {
   }
 
   .\32xl\:hover\:translate-y-36:hover{
-    --tw-translate-y: 9rem;
+    --tw-translate-y: 2.25rem;
   }
 
   .\32xl\:hover\:translate-y-40:hover{
@@ -167428,7 +167428,7 @@ a {
   }
 
   .\32xl\:hover\:-translate-y-36:hover{
-    --tw-translate-y: -9rem;
+    --tw-translate-y: -2.25rem;
   }
 
   .\32xl\:hover\:-translate-y-40:hover{
@@ -167632,7 +167632,7 @@ a {
   }
 
   .\32xl\:focus\:translate-x-36:focus{
-    --tw-translate-x: 9rem;
+    --tw-translate-x: 2.25rem;
   }
 
   .\32xl\:focus\:translate-x-40:focus{
@@ -167780,7 +167780,7 @@ a {
   }
 
   .\32xl\:focus\:-translate-x-36:focus{
-    --tw-translate-x: -9rem;
+    --tw-translate-x: -2.25rem;
   }
 
   .\32xl\:focus\:-translate-x-40:focus{
@@ -167984,7 +167984,7 @@ a {
   }
 
   .\32xl\:focus\:translate-y-36:focus{
-    --tw-translate-y: 9rem;
+    --tw-translate-y: 2.25rem;
   }
 
   .\32xl\:focus\:translate-y-40:focus{
@@ -168132,7 +168132,7 @@ a {
   }
 
   .\32xl\:focus\:-translate-y-36:focus{
-    --tw-translate-y: -9rem;
+    --tw-translate-y: -2.25rem;
   }
 
   .\32xl\:focus\:-translate-y-40:focus{
@@ -169596,7 +169596,7 @@ a {
   }
 
   .\32xl\:gap-36{
-    gap: 9rem;
+    gap: 2.25rem;
   }
 
   .\32xl\:gap-40{
@@ -169765,8 +169765,8 @@ a {
   }
 
   .\32xl\:gap-x-36{
-    -moz-column-gap: 9rem;
-         column-gap: 9rem;
+    -moz-column-gap: 2.25rem;
+         column-gap: 2.25rem;
   }
 
   .\32xl\:gap-x-40{
@@ -169929,7 +169929,7 @@ a {
   }
 
   .\32xl\:gap-y-36{
-    row-gap: 9rem;
+    row-gap: 2.25rem;
   }
 
   .\32xl\:gap-y-40{
@@ -170120,8 +170120,8 @@ a {
 
   .\32xl\:space-x-36 > :not([hidden]) ~ :not([hidden]){
     --tw-space-x-reverse: 0;
-    margin-right: calc(9rem * var(--tw-space-x-reverse));
-    margin-left: calc(9rem * calc(1 - var(--tw-space-x-reverse)));
+    margin-right: calc(2.25rem * var(--tw-space-x-reverse));
+    margin-left: calc(2.25rem * calc(1 - var(--tw-space-x-reverse)));
   }
 
   .\32xl\:space-x-40 > :not([hidden]) ~ :not([hidden]){
@@ -170342,8 +170342,8 @@ a {
 
   .\32xl\:-space-x-36 > :not([hidden]) ~ :not([hidden]){
     --tw-space-x-reverse: 0;
-    margin-right: calc(-9rem * var(--tw-space-x-reverse));
-    margin-left: calc(-9rem * calc(1 - var(--tw-space-x-reverse)));
+    margin-right: calc(-2.25rem * var(--tw-space-x-reverse));
+    margin-left: calc(-2.25rem * calc(1 - var(--tw-space-x-reverse)));
   }
 
   .\32xl\:-space-x-40 > :not([hidden]) ~ :not([hidden]){
@@ -170564,8 +170564,8 @@ a {
 
   .\32xl\:space-y-36 > :not([hidden]) ~ :not([hidden]){
     --tw-space-y-reverse: 0;
-    margin-top: calc(9rem * calc(1 - var(--tw-space-y-reverse)));
-    margin-bottom: calc(9rem * var(--tw-space-y-reverse));
+    margin-top: calc(2.25rem * calc(1 - var(--tw-space-y-reverse)));
+    margin-bottom: calc(2.25rem * var(--tw-space-y-reverse));
   }
 
   .\32xl\:space-y-40 > :not([hidden]) ~ :not([hidden]){
@@ -170786,8 +170786,8 @@ a {
 
   .\32xl\:-space-y-36 > :not([hidden]) ~ :not([hidden]){
     --tw-space-y-reverse: 0;
-    margin-top: calc(-9rem * calc(1 - var(--tw-space-y-reverse)));
-    margin-bottom: calc(-9rem * var(--tw-space-y-reverse));
+    margin-top: calc(-2.25rem * calc(1 - var(--tw-space-y-reverse)));
+    margin-bottom: calc(-2.25rem * var(--tw-space-y-reverse));
   }
 
   .\32xl\:-space-y-40 > :not([hidden]) ~ :not([hidden]){
@@ -181029,7 +181029,7 @@ a {
   }
 
   .\32xl\:p-36{
-    padding: 9rem;
+    padding: 2.25rem;
   }
 
   .\32xl\:p-40{
@@ -181198,8 +181198,8 @@ a {
   }
 
   .\32xl\:px-36{
-    padding-left: 9rem;
-    padding-right: 9rem;
+    padding-left: 2.25rem;
+    padding-right: 2.25rem;
   }
 
   .\32xl\:px-40{
@@ -181383,8 +181383,8 @@ a {
   }
 
   .\32xl\:py-36{
-    padding-top: 9rem;
-    padding-bottom: 9rem;
+    padding-top: 2.25rem;
+    padding-bottom: 2.25rem;
   }
 
   .\32xl\:py-40{
@@ -181547,7 +181547,7 @@ a {
   }
 
   .\32xl\:pt-36{
-    padding-top: 9rem;
+    padding-top: 2.25rem;
   }
 
   .\32xl\:pt-40{
@@ -181695,7 +181695,7 @@ a {
   }
 
   .\32xl\:pr-36{
-    padding-right: 9rem;
+    padding-right: 2.25rem;
   }
 
   .\32xl\:pr-40{
@@ -181843,7 +181843,7 @@ a {
   }
 
   .\32xl\:pb-36{
-    padding-bottom: 9rem;
+    padding-bottom: 2.25rem;
   }
 
   .\32xl\:pb-40{
@@ -181991,7 +181991,7 @@ a {
   }
 
   .\32xl\:pl-36{
-    padding-left: 9rem;
+    padding-left: 2.25rem;
   }
 
   .\32xl\:pl-40{
