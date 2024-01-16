@@ -13,6 +13,8 @@ module.exports = {
         'dark-gray': '#333',
         'light-gray': '#4B545C',
         'light-gray-100': '#EEE',
+        'light-gray-50': '#F4F5F5',
+        'light-gray-25': '#BABABA',
       },
       fontFamily:{
         amaranth: ['Amaranth'],
@@ -42,12 +44,14 @@ module.exports = {
         '24': '1.5rem',
         '30': '1.875rem',
         '36': '2.25rem',
+        '42': '2.50rem',
         '48': '1.875rem',
         '60': '3.75rem',
       },
       backgroundImage: {
         'hero': "url('../static/images/header-bg.svg')",
         'companies': "url('../static/images/bg-companies.svg')",
+        'lines': "url('../static/images/lines.svg')",
       }
     },
   },
