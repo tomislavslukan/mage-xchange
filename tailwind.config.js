@@ -7,6 +7,10 @@ module.exports = {
       borderWidth: {
         '1': '1px',
       },
+      screens: {
+        'tablet': '768px',
+        'desktop': '1920px',
+      },
       colors:{
         'orange': '#FFBC00',
         'turquoise': '#09A8D6',
