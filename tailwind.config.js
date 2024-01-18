@@ -1,15 +1,17 @@
 module.exports = {
-  purge: [],
-  darkMode: false, // or 'media' or 'class'
   content: ["./src/index.html"],
   theme: {
     extend: {
-      borderWidth: {
-        '1': '1px',
+      width: {
+        '360': '360px',
+        '512': '512px',
+        '845': '845px',
+        '720': '720px',
       },
       screens: {
+        'mobile': '360px',
         'tablet': '768px',
-        'desktop': '1920px',
+        'desktop': '1024px',
       },
       colors:{
         'orange': '#FFBC00',

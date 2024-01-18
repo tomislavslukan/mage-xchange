@@ -4,7 +4,7 @@
   "description": "First project as frontend developer at Inchoo",
   "main": "index.html",
   "scripts": {
-    "build": "npx tailwindcss-cli@latest -i ./src/input.css -o ./src/output.css --watch"
+    "build": "npx tailwindcss -i ./src/input.css -o ./src/output.css --watch"
   },
   "repository": {
     "type": "git",
@@ -17,11 +17,10 @@
     "url": "https://github.com/tomislavslukan/mage-xchange/issues"
   },
   "homepage": "https://github.com/tomislavslukan/mage-xchange#readme",
+  "dependencies": {
+    "alpinejs": "^3.13.3"
+  },
   "devDependencies": {
     "tailwindcss": "^3.4.1"
-  },
-  "dependencies": {
-    "alpinejs": "^3.13.3",
-    "swiper": "^11.0.5"
   }
 }

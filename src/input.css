@@ -5,5 +5,17 @@
 @tailwind utilities;
 
 a {
-    @apply text-turquoise no-underline cursor-pointer
+    @apply text-turquoise no-underline cursor-pointer;
+}
+
+.beforeLine:before {
+    @apply content-[''] absolute -ml-30 mt-30 inline-block rounded-full block w-24 h-1 bg-orange;
+}
+
+.beforeLine2:before {
+    @apply content-[''] absolute -ml-30 mt-12 inline-block rounded-full block w-24 h-1 bg-orange;
+}
+
+.afterLine3:after {
+    @apply content-['|'] mx-3;
 }
