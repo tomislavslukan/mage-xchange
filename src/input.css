@@ -4,18 +4,22 @@
 @tailwind components;
 @tailwind utilities;
 
-a {
-    @apply text-turquoise no-underline cursor-pointer;
-}
-
 .beforeLine:before {
     @apply content-[''] absolute -ml-30 mt-30 inline-block rounded-full block w-24 h-1 bg-orange;
 }
 
-.beforeLine2:before {
-    @apply content-[''] absolute -ml-30 mt-12 inline-block rounded-full block w-24 h-1 bg-orange;
+.custom-button {
+    @apply font-raleway font-bold content-center rounded-full px-48 py-2;
 }
 
-.afterLine3:after {
-    @apply content-['|'] mx-3;
+.custom-button:hover {
+    @apply rounded-none;
+}
+
+a:hover {
+    @apply underline;
+}
+
+[x-cloak] {
+    display: none !important;
 }
