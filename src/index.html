@@ -16,6 +16,9 @@
     <!-- alpine.js -->
     <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
 
+    <!-- Link Swiper's CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"/>
+
 </head>
 <body>
 
@@ -24,10 +27,12 @@
         display: none;
     !important;
     }
+
 </style>
 
 <!-- header section -->
 <header>
+
     <div class="bg-hero bg-no-repeat bg-cover bg-bottom">
 
         <!-- header ribbon -->
@@ -64,20 +69,10 @@
                     </defs>
                 </svg>
             </span>
-            <span class="hidden desktop:inline-block">
-                    <a href="#" target="_blank" class="text-white font-raleway font-bold text-16 uppercase">About</a>
-                    <a href="#" target="_blank" class="text-white font-raleway font-bold text-16 uppercase px-24 ">Experiences</a>
-                    <a href="#" target="_blank"
-                       class="text-white font-raleway font-bold text-16 uppercase">Companies</a>
-                <a href="#" target="_blank"
-                   class="text-white font-raleway font-bold text-16 uppercase px-24">Contact</a>
-                </span>
+
+            DESKTOP LINKOVI
+
             <div>
-                <span class="hidden tablet:inline-block">
-                    <a href="#" target="_blank" class="text-white font-raleway font-medium text-16">Login</a>
-                    <button aria-label="Register button."
-                            class="bg-orange text-white font-raleway font-bold text-p content-center rounded-full px-48 py-2 mx-24">Register</button>
-                </span>
                 <button aria-label="Open or close hamburger meni button." @click="open = ! open"
                         class="visible desktop:hidden">
                     <svg width="23" height="16" viewBox="0 0 23 16" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -126,23 +121,6 @@
                             <li><a href="#" class="text-orange font-bold font-raleway font-16">Sign up</a></li>
                         </ul>
                     </div>
-
-                    <nav>
-                        <ul>
-                            <li class="border-b"><a href="#"
-                                                    class="text-white font-medium font-raleway font-16 leading-10">About</a>
-                            </li>
-                            <li class="border-b"><a href="#"
-                                                    class="text-white font-medium font-raleway font-16 leading-10">Experiences</a>
-                            </li>
-                            <li class="border-b"><a href="#"
-                                                    class="text-white font-medium font-raleway font-16 leading-10">Companies</a>
-                            </li>
-                            <li class="border-b"><a href="#"
-                                                    class="text-white font-medium font-raleway font-16 leading-10">Contact</a>
-                            </li>
-                        </ul>
-                    </nav>
 
                     <p class="text-center mt-48 mb-30 text-white font-regular font-inter font-14 leading-5">Knowledge
                         and
@@ -258,7 +236,7 @@
     <figure class="flex flex-row justify-end" aria-label="Polaroid images.">
         <img
                 rel="preload"
-                sizes="(max-width: 767px) 100vw, (max-width: 1023px) 50vw, 845px"
+                sizes="(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 845px"
                 srcset="
             ../static/images/polaroid-images.webp 360w,
             ../static/images/polaroid-images-2x.webp 845w
@@ -371,8 +349,10 @@
         <!-- main companies + polaroid images -->
         <div class="desktop:flex desktop:max-w-screen-xl desktop:m-auto desktop:pb-60 desktop:flex-row desktop:justify-center">
             <!-- main companies in Swiper card -->
+
             <section>
                 <div class="desktop:max-w-screen-xl">
+
                     <div class="px-12 mt-28">
                         <p class="text-orange uppercase font-raleway font-small font-bold mt-60 mb-12">Register
                             yours!</p>
@@ -380,10 +360,12 @@
                             initiative</h1>
                     </div>
 
-                    <div  class="tablet:grid tablet:grid-cols-2 tablet:grid-rows-2">
+                    <!-- Swiper -->
+                    <div class="swiper mySwiper">
+                        <div class="swiper-wrapper">
 
                             <!-- swiper article 1 -->
-                            <div class="mt-30 mx-12 py-24 px-12 rounded-md border-2 bg-white border-light-gray-100">
+                            <div class="swiper-slide mt-30 mx-12 py-24 px-12 rounded-md border-2 bg-white border-light-gray-100">
                                 <article>
                                     <h1 class="font-raleway font-medium-2 text-17 text-dark-gray mb-24">Inchoo</h1>
                                     <div class="flex justify-end">
@@ -446,7 +428,7 @@
                             </div>
 
                             <!-- swiper article 2 -->
-                            <div class="mt-30 mx-12 py-24 px-12 rounded-md border-2 bg-white border-light-gray-100">
+                            <div class="swiper-slide mt-30 mx-12 py-24 px-12 rounded-md border-2 bg-white border-light-gray-100">
                                 <article>
                                     <h1 class="font-raleway font-medium-2 text-17 text-dark-gray mb-24">Interactiv4</h1>
 
@@ -539,7 +521,7 @@
                             </div>
 
                             <!-- swiper article 3 -->
-                            <div class="mt-30 mx-12 py-24 px-12 rounded-md border-2 bg-white border-light-gray-100">
+                            <div class="swiper-slide mt-30 mx-12 py-24 px-12 rounded-md border-2 bg-white border-light-gray-100">
                                 <article>
                                     <h1 class="font-raleway font-medium-2 text-17 text-dark-gray mb-24">Atwix</h1>
 
@@ -620,7 +602,7 @@
                             </div>
 
                             <!-- swiper article 4 -->
-                            <div class="mt-30 mx-12 py-24 px-12 rounded-md border-2 bg-white border-light-gray-100">
+                            <div class="swiper-slide mt-30 mx-12 py-24 px-12 rounded-md border-2 bg-white border-light-gray-100">
                                 <article>
                                     <h1 class="font-raleway font-medium-2 text-17 text-dark-gray mb-24">JH</h1>
 
@@ -679,15 +661,19 @@
                                     </div>
                                 </article>
                             </div>
+                        </div>
+                        <div class="swiper-pagination"></div>
                     </div>
 
                 </div>
+
                 <div class="flex flex-row justify-center">
                     <button aria-label="View all articles button."
                             class="bg-turquoise border-2 text-white text-16 font-raleway font-bold leading-6 rounded-full px-60 mt-36 py-3">
                         View all
                     </button>
                 </div>
+
             </section>
 
             <!-- polaroid images and signup button -->
@@ -712,7 +698,8 @@
                                 class="bg-turquoise border-2 text-white text-16 font-raleway font-bold align-center leading-6 rounded-full px-60 py-3">
                             Sign up!
                         </button>
-                        <div class="w-full border-2 border-orange mt-48 mb-60"></div>
+                        <div class="w-full border-2 border-orange mt-48 mb-60">
+                        </div>
                     </div>
                 </div>
             </section>
@@ -990,25 +977,59 @@
             </div>
         </div>
 
-        <div class="hidden desktop:block">
-            <nav>
-                <ul class="flex flex-row items-center">
-                    <li><a href="#" class="font-raleway uppercase text-white font-bold font-16 afterLine3">About</a>
-                    </li>
-
-                    <li><a href="#"
-                           class="font-raleway uppercase text-white font-bold font-16 afterLine3">Experiences</a></li>
-
-                    <li><a href="#" class="font-raleway uppercase text-white font-bold font-16 afterLine3">Companies</a>
-                    </li>
-
-                    <li><a href="#" class="font-raleway uppercase text-white font-bold text-16">Contact</a></li>
-                </ul>
-            </nav>
-        </div>
-
     </div>
 </footer>
+
+<!-- Swiper JS -->
+<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+
+<script>
+    swiper = new Swiper(".mySwiper", {
+        breakpoints: {
+            768: {
+                slidesPerView: 2,
+                slidesPerColumn: 2,
+                slidesPerGroup: 4,
+                watchOverflow: true,
+            },
+        pagination: {
+            el: ".swiper-pagination",
+            clickable: true,
+        },
+        }
+    });
+
+
+    document.addEventListener("DOMContentLoaded", function () {
+        const links = [
+            { text: "About", url: "#" },
+            { text: "Experiences", url: "#" },
+            { text: "Companies", url: "#" },
+            { text: "Contact", url: "#" },
+        ];
+
+        const desktopNav = document.getElementById("nav-list-desktop");
+        generateLinks(links, desktopNav);
+
+        const mobileNav = document.getElementById("nav-list-mobile");
+        generateLinks(links, mobileNav);
+
+        function generateLinks(linksArray, container) {
+            linksArray.forEach(link => {
+                const listItem = document.createElement("li");
+                const anchor = document.createElement("a");
+
+                anchor.textContent = link.text;
+                anchor.href = link.url;
+                anchor.classList.add("nav-link");
+
+                listItem.appendChild(anchor);
+                container.appendChild(listItem);
+            });
+        }
+    });
+
+</script>
 
 </body>
 </html>
