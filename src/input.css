@@ -4,20 +4,44 @@
 @tailwind components;
 @tailwind utilities;
 
-.beforeLine:before {
-    @apply content-[''] absolute -ml-30 mt-30 inline-block rounded-full block w-24 h-1 bg-orange;
+.swiper-pagination {
+    --swiper-pagination-color: orange;
+    --swiper-pagination-bullet-width: 36px;
+    --swiper-pagination-bullet-height: 3px;
+    --swiper-pagination-bullet-border-radius: 10px;
+}
+
+.before__hero:before {
+    @apply content-[''] desktop:-ml-24 absolute inline-block rounded-full block tablet:w-20 desktop:w-20 mobile:w-3 h-1 bg-orange desktop:mt-10 tablet:mt-10 mt-6
+}
+
+.before__experience:before {
+    @apply content-[''] absolute inline-block rounded-full block tablet:w-9 desktop:w-9 mobile:w-3 h-1 bg-orange desktop:mt-5 tablet:mt-5 mt-4;
+}
+
+.link {
+    @apply relative pb-0.5;
+}
+
+.link::before {
+    @apply content-[''] absolute bottom-0 left-0 w-0 h-0.5 bg-orange;
+}
+
+.link:hover::before {
+    @apply w-full;
+    transition: width 0.3s ease;
 }
 
 .custom-button {
-    @apply font-raleway font-bold content-center rounded-full px-48 py-2;
+    @apply font-raleway font-bold content-center rounded-full px-8 py-2;
 }
 
-.custom-button:hover {
-    @apply rounded-none;
+.swiper-pagination-bullet {
+    @apply w-[36px] bg-light-gray-100 h-[3px] rounded-full;
 }
 
-a:hover {
-    @apply underline;
+.swiper-pagination-bullet-active {
+    @apply w-[36px] bg-orange h-[3px] rounded-full;
 }
 
 [x-cloak] {
